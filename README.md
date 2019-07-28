@@ -2,6 +2,9 @@
 
 Pytorch code for our ICCV 2019 paper "Unpaired Image Captioning via Scene Graph Alignments"
 
+- [ ] ECCV 18 version, code is comming;
+- [ ] ICCV 19 version, code is comming;
+
 ## Acknowledgement
 ```
 @inproceedings{gu2019unpaired,
