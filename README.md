@@ -3,6 +3,7 @@
 Pytorch code for our ICCV 2019 paper "Unpaired Image Captioning via Scene Graph Alignments"
 
 ## Acknowledgement
+```
 @inproceedings{gu2019unpaired,
   title={Unpaired Image Captioning via Scene Graph Alignments},
   author={Gu, Jiuxiang and Joty, Shafiq and Cai, Jianfei and Zhao, Handong and Yang, Xu and Wang, Gang},
@@ -16,3 +17,4 @@ Pytorch code for our ICCV 2019 paper "Unpaired Image Captioning via Scene Graph 
   booktitle={ECCV},
   year={2018}
 }
+```
