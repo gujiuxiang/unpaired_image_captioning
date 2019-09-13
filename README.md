@@ -3,7 +3,7 @@
 Pytorch code for our ICCV 2019 paper "Unpaired Image Captioning via Scene Graph Alignments"
 Pytorch code for our ECCV 2010 paper "Unpaired Image Captioning by Language Pivoting"
 
-- [ ] ECCV 18 version, code is comming;
+- [x] ECCV 18 version, v1.0;
 - [ ] ICCV 19 version, code is comming;
 
 ## Acknowledgement
