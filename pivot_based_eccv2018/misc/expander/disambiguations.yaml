@@ -1,0 +1,7944 @@
+# yamllint disable rule:line-length
+---
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- VBD
+: {am not: 0.019, are not: 0.144, has not: 0.173, have not: 0.106, is not: 0.558}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id001 !!python/tuple ['''d', MD]
+- VB
+: {he had: 0.429, he would: 0.571}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- VB
+: {who has: 0.462, who is: 0.538}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- NNP
+: {am not: 0.025, are not: 0.13, has not: 0.173, have not: 0.074, is not: 0.599}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id002 !!python/tuple ['''s', VBZ]
+- NNP
+: {it has: 0.482, it is: 0.518}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- WP
+: {who has: 0.375, who is: 0.625}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', MD]
+- NNS
+: {there would: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id003 !!python/tuple ['''d', VBD]
+- VBD
+: {he had: 0.995, he would: 0.005}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- &id004 !!python/tuple ['''ll', MD]
+- IN
+: {they shall: 0.167, they will: 0.833}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id005 !!python/tuple ['''d', MD]
+- '``'
+: {it had: 0.5, it would: 0.5}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id006 !!python/tuple ['''s', VBZ]
+- NN
+: {it has: 0.34, it is: 0.66}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id007 !!python/tuple ['''d', MD]
+- ','
+: {it had: 0.221, it would: 0.779}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id008 !!python/tuple ['''d', MD]
+- NNP
+: {it had: 0.232, it would: 0.768}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id009 !!python/tuple ['''d', MD]
+- IN
+: {it had: 0.252, it would: 0.748}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', MD]
+- VBD
+: {there would: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', MD]
+- NNP
+: {he had: 0.5, he would: 0.5}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- NN
+: {am not: 0.01, are not: 0.166, has not: 0.145, have not: 0.059, is not: 0.619}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- NN
+: {who has: 0.353, who is: 0.647}
+? !!python/tuple
+- !!python/tuple [ain, NN]
+- !!python/tuple ['''t', NN]
+- IN
+: {are not: 0.333, has not: 0.167, have not: 0.333, is not: 0.167}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- MD
+: {who shall: 0.533, who will: 0.467}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id010 !!python/tuple ['''ll', MD]
+- NNP
+: {he shall: 0.125, he will: 0.875}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- VB
+: {I had: 0.145, I would: 0.855}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- ','
+: {am not: 0.072, are not: 0.23, has not: 0.065, have not: 0.094, is not: 0.54}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- ','
+: {who has: 0.333, who is: 0.667}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id011 !!python/tuple ['''d', MD]
+- PRP$
+: {he had: 0.824, he would: 0.176}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- FW
+: {am not: 0.099, are not: 0.163, has not: 0.057, have not: 0.109, is not: 0.571}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- PRP
+: {am not: 0.078, are not: 0.203, has not: 0.085, have not: 0.137, is not: 0.497}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id012 !!python/tuple ['''ll', MD]
+- NN
+: {he shall: 0.225, he will: 0.775}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id013 !!python/tuple ['''ll', MD]
+- VBD
+: {he shall: 0.2, he will: 0.8}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- NN
+: {there has: 0.062, there is: 0.938}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- ','
+: {there has: 0.07, there is: 0.93}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- JJ
+: {am not: 0.031, are not: 0.252, has not: 0.102, have not: 0.047, is not: 0.567}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', VBZ]
+- IN
+: {that has: 0.129, that is: 0.871}
+? !!python/tuple
+- !!python/tuple [ain, NNP]
+- !!python/tuple ['''t', NNP]
+- DT
+: {has not: 0.8, is not: 0.2}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id014 !!python/tuple ['''s', VBZ]
+- VBZ
+: {it has: 0.155, it is: 0.845}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- VBP
+: {am not: 0.106, are not: 0.258, has not: 0.068, have not: 0.129, is not: 0.439}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- VBP
+: {there has: 0.073, there is: 0.927}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- &id015 !!python/tuple ['''d', MD]
+- RB
+: {they had: 0.691, they would: 0.309}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id016 !!python/tuple ['''d', MD]
+- VBD
+: {it had: 0.218, it would: 0.782}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- RB
+: {there has: 0.048, there is: 0.952}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id017 !!python/tuple ['''s', VBZ]
+- JJ
+: {he has: 0.367, he is: 0.633}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', MD]
+- VBD
+: {he had: 0.538, he would: 0.462}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', VBD]
+- WDT
+: {that had: 0.8, that would: 0.2}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id018 !!python/tuple ['''d', MD]
+- DT
+: {he had: 0.585, he would: 0.415}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- MD
+: {I had: 0.397, I would: 0.603}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id019 !!python/tuple ['''s', VBZ]
+- VBD
+: {he has: 0.429, he is: 0.571}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id020 !!python/tuple ['''s', VBZ]
+- VB
+: {he has: 0.462, he is: 0.538}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''s', VBZ]
+- NN
+: {he has: 0.458, he is: 0.542}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- VBG
+: {what is: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''ll', MD]
+- IN
+: {it shall: 0.031, it will: 0.969}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id021 !!python/tuple ['''d', MD]
+- PRP
+: {he had: 0.552, he would: 0.448}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- VBN
+: {are not: 0.118, has not: 0.235, have not: 0.265, is not: 0.382}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- VBD
+: {there has: 0.086, there is: 0.914}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- VBZ
+: {I shall: 0.552, I will: 0.448}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- NNP
+: {there has: 0.115, there is: 0.885}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', NN]
+- PRP
+: {am not: 0.667, are not: 0.222, is not: 0.111}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''s', VBZ]
+- VBZ
+: {he has: 0.355, he is: 0.645}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- TO
+: {who has: 0.429, who is: 0.571}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- DT
+: {who has: 0.5, who is: 0.5}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- NNP
+: {who has: 0.405, who is: 0.595}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', MD]
+- IN
+: {he had: 0.525, he would: 0.475}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- ','
+: {what has: 0.069, what is: 0.931}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- MD
+: {I shall: 0.376, I will: 0.624}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', MD]
+- DT
+: {it had: 0.227, it would: 0.773}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- &id022 !!python/tuple ['''ll', MD]
+- VB
+: {they shall: 0.2, they will: 0.8}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- NNPS
+: {that has: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- EX
+: {there has: 0.038, there is: 0.962}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- PRP
+: {I shall: 0.406, I will: 0.594}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- VBP
+: {I will have: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- CC
+: {are not: 0.357, has not: 0.071, have not: 0.107, is not: 0.464}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- CD
+: {that has: 0.012, that is: 0.988}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- DT
+: {I had: 0.625, I would: 0.375}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', MD]
+- CD
+: {that had: 0.438, that would: 0.562}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- NN
+: {who shall: 0.182, who will: 0.818}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', MD]
+- IN
+: {that had: 0.095, that would: 0.905}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- &id023 !!python/tuple ['''d', VBD]
+- CD
+: {they had: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id024 !!python/tuple ['''s', VBZ]
+- PRP
+: {it has: 0.184, it is: 0.816}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id025 !!python/tuple ['''s', VBZ]
+- DT
+: {it has: 0.164, it is: 0.836}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id026 !!python/tuple ['''ll', MD]
+- JJ
+: {it shall: 0.121, it will: 0.879}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id027 !!python/tuple ['''d', VBD]
+- MD
+: {he had: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''ll', MD]
+- NNP
+: {it shall: 0.051, it will: 0.949}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- VBZ
+: {there has: 0.052, there is: 0.948}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id028 !!python/tuple ['''d', MD]
+- JJ
+: {it had: 0.39, it would: 0.61}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id029 !!python/tuple ['''s', VBZ]
+- IN
+: {it has: 0.197, it is: 0.803}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''s', VBZ]
+- VB
+: {it has: 0.104, it is: 0.896}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', MD]
+- VB
+: {they had: 0.278, they would: 0.722}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', MD]
+- VB
+: {it had: 0.179, it would: 0.821}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', MD]
+- RB
+: {that would: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id030 !!python/tuple ['''d', MD]
+- NN
+: {he had: 0.528, he would: 0.472}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', MD]
+- RB
+: {there had: 0.125, there would: 0.875}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id031 !!python/tuple ['''ll', MD]
+- MD
+: {it shall: 0.295, it will: 0.705}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- &id032 !!python/tuple ['''d', MD]
+- NNS
+: {they had: 0.52, they would: 0.48}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id033 !!python/tuple ['''d', VBD]
+- NNP
+: {he had: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', MD]
+- NNP
+: {they had: 0.649, they would: 0.351}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', MD]
+- NN
+: {that had: 0.059, that would: 0.941}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', MD]
+- NN
+: {we had: 0.571, we would: 0.429}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id034 !!python/tuple ['''ll', MD]
+- PRP
+: {he shall: 0.14, he will: 0.86}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- DT
+: {am not: 0.025, are not: 0.247, has not: 0.101, have not: 0.076, is not: 0.551}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id035 !!python/tuple ['''ll', MD]
+- &id036 !!python/tuple ['''ve', VB]
+- VBP
+: {it will have: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id037 !!python/tuple ['''d', VBD]
+- PRP
+: {he had: 0.991, he would: 0.009}
+? !!python/tuple
+- !!python/tuple [ain, NNP]
+- !!python/tuple ['''t', NNP]
+- NNP
+: {has not: 0.455, have not: 0.273, is not: 0.273}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- IN
+: {who has: 0.467, who is: 0.533}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- NNS
+: {who has: 0.556, who is: 0.444}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', MD]
+- NN
+: {they had: 0.618, they would: 0.382}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', VBD]
+- VBD
+: {there had: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- ','
+: {that has: 0.35, that is: 0.65}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- NNP
+: {who will: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id038 !!python/tuple ['''s', VBZ]
+- VBG
+: {he has: 0.375, he is: 0.625}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', VBZ]
+- ','
+: {that has: 0.077, that is: 0.923}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id039 !!python/tuple ['''ll', MD]
+- VBP
+: {it shall: 0.034, it will: 0.966}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- RB
+: {who shall: 0.25, who will: 0.75}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- IN
+: {there has: 0.054, there is: 0.946}
+? !!python/tuple
+- !!python/tuple [where, WRB]
+- !!python/tuple ['''s', POS]
+- POS
+: {where is: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- WDT
+: {that has: 0.154, that is: 0.846}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', VBZ]
+- NN
+: {that has: 0.041, that is: 0.959}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''ll', MD]
+- PRP
+: {they shall: 0.147, they will: 0.853}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''s', VBZ]
+- PRP
+: {he has: 0.279, he is: 0.721}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''s', VBZ]
+- NNP
+: {she has: 0.214, she is: 0.786}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- &id040 !!python/tuple ['''ll', MD]
+- ','
+: {they will: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id041 !!python/tuple ['''d', MD]
+- CC
+: {it had: 0.375, it would: 0.625}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''s', VBZ]
+- JJ
+: {it has: 0.15, it is: 0.85}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id042 !!python/tuple ['''s', VBZ]
+- ','
+: {it has: 0.091, it is: 0.909}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', VBZ]
+- DT
+: {that has: 0.049, that is: 0.951}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id043 !!python/tuple ['''d', VBD]
+- ','
+: {he had: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', NN]
+- VBP
+: {am not: 0.286, are not: 0.571, have not: 0.143}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', VBD]
+- VBG
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', MD]
+- PRP
+: {they had: 0.536, they would: 0.464}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id044 !!python/tuple ['''s', VBZ]
+- TO
+: {he has: 0.45, he is: 0.55}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', VBD]
+- NNP
+: {they had: 1.0}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- CC
+: {who shall: 0.5, who will: 0.5}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', MD]
+- DT
+: {that had: 0.037, that would: 0.963}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- &id045 !!python/tuple ['''d', VBD]
+- NN
+: {they had: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- &id046 !!python/tuple ['''d', MD]
+- CD
+: {they had: 0.816, they would: 0.184}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- NNS
+: {there has: 0.107, there is: 0.893}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''s', VBZ]
+- NN
+: {she has: 0.385, she is: 0.615}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- &id047 !!python/tuple ['''s', VBZ]
+- NNS
+: {she has: 0.429, she is: 0.571}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- TO
+: {am not: 0.062, are not: 0.312, has not: 0.062, have not: 0.062, is not: 0.5}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id048 !!python/tuple ['''d', VBD]
+- NNS
+: {he had: 0.952, he would: 0.048}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', VBD]
+- NN
+: {he had: 0.986, he would: 0.014}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id049 !!python/tuple ['''d', VBD]
+- WRB
+: {he had: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id050 !!python/tuple ['''d', VBD]
+- IN
+: {he had: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- RB
+: {I had: 0.587, I would: 0.413}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- JJS
+: {that has: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- &id051 !!python/tuple ['''d', MD]
+- JJR
+: {they had: 0.75, they would: 0.25}
+? !!python/tuple
+- !!python/tuple [that, IN]
+- !!python/tuple ['''d', NNP]
+- RB
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- NN
+: {that has: 0.31, that is: 0.69}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- PRP
+: {that has: 0.158, that is: 0.842}
+? !!python/tuple
+- !!python/tuple [ain, NN]
+- !!python/tuple ['''t', NN]
+- NN
+: {are not: 0.089, has not: 0.375, have not: 0.018, is not: 0.518}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''s', VBZ]
+- ','
+: {she has: 0.417, she is: 0.583}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id052 !!python/tuple ['''s', VBZ]
+- VBP
+: {he has: 0.433, he is: 0.567}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- MD
+: {am not: 0.061, are not: 0.182, has not: 0.03, have not: 0.061, is not: 0.667}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', VBD]
+- IN
+: {they had: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''s', VBZ]
+- JJ
+: {she has: 0.176, she is: 0.824}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', VBD]
+- PRP
+: {she had: 0.97, she would: 0.03}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- VBP
+: {that has: 0.323, that is: 0.677}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- ','
+: {I had: 0.558, I would: 0.442}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- TO
+: {I had: 0.533, I would: 0.467}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''s', VBZ]
+- NNP
+: {he has: 0.364, he is: 0.636}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id053 !!python/tuple ['''s', VBZ]
+- RB
+: {it has: 0.124, it is: 0.876}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- CD
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''ll', MD]
+- NN
+: {they will: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', VBD]
+- VBD
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- '``'
+: {are not: 0.333, has not: 0.333, is not: 0.333}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- '``'
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', MD]
+- PRP
+: {she had: 0.5, she would: 0.5}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id054 !!python/tuple ['''d', VBD]
+- PRP$
+: {he had: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', MD]
+- CC
+: {there would: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''ll', MD]
+- MD
+: {he shall: 0.25, he will: 0.75}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- DT
+: {that has: 0.308, that is: 0.692}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''s', VBZ]
+- VBP
+: {it has: 0.109, it is: 0.891}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- RB
+: {am not: 0.036, are not: 0.236, has not: 0.086, have not: 0.129, is not: 0.514}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- JJ
+: {there has: 0.113, there is: 0.887}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- IN
+: {am not: 0.005, are not: 0.308, has not: 0.114, have not: 0.043, is not: 0.531}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- NN
+: {what has: 0.13, what is: 0.87}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id055 !!python/tuple ['''s', VBZ]
+- CD
+: {it has: 0.023, it is: 0.977}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''s', VBZ]
+- ','
+: {he has: 0.412, he is: 0.588}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''s', VBZ]
+- NNS
+: {he has: 0.226, he is: 0.774}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id056 !!python/tuple ['''d', VBD]
+- JJ
+: {he had: 1.0}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', VBZ]
+- VBZ
+: {that has: 0.033, that is: 0.967}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- CC
+: {who has: 0.75, who is: 0.25}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', MD]
+- VBD
+: {they had: 0.588, they would: 0.412}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', MD]
+- JJ
+: {he had: 0.639, he would: 0.361}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id057 !!python/tuple ['''ll', MD]
+- VBZ
+: {he shall: 0.111, he will: 0.889}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- &id058 !!python/tuple ['''d', MD]
+- VBP
+: {they had: 0.333, they would: 0.667}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''s', VBZ]
+- CD
+: {he has: 0.027, he is: 0.973}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''s', VBZ]
+- DT
+: {he has: 0.284, he is: 0.716}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- CD
+: {who has: 0.013, who is: 0.987}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id059 !!python/tuple ['''d', VBD]
+- RB
+: {he had: 0.989, he would: 0.011}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''ll', MD]
+- JJ
+: {he shall: 0.286, he will: 0.714}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id060 !!python/tuple ['''s', VBZ]
+- FW
+: {he has: 0.8, he is: 0.2}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id061 !!python/tuple ['''d', VBD]
+- DT
+: {he had: 0.988, he would: 0.012}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', MD]
+- RB
+: {he had: 0.625, he would: 0.375}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- NNP
+: {that has: 0.571, that is: 0.429}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id062 !!python/tuple ['''d', MD]
+- VBN
+: {he had: 0.63, he would: 0.37}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id063 !!python/tuple ['''s', VBZ]
+- VBN
+: {it has: 0.236, it is: 0.764}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', VBD]
+- NN
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', POS]
+- ','
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id064 !!python/tuple ['''d', MD]
+- NNPS
+: {it had: 0.167, it would: 0.833}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', VBD]
+- ','
+: {it had: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- RB
+: {that has: 0.333, that is: 0.667}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- NNP
+: {what has: 0.19, what is: 0.81}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- &id065 !!python/tuple ['''ll', MD]
+- RB
+: {they shall: 0.077, they will: 0.923}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- RBR
+: {who is: 1.0}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- VBZ
+: {what has: 0.117, what is: 0.883}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', MD]
+- VBD
+: {we had: 0.3, we would: 0.7}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id066 !!python/tuple ['''ll', MD]
+- WRB
+: {it will: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- WRB
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- &id067 !!python/tuple ['''ll', MD]
+- NNS
+: {they will: 1.0}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- IN
+: {who shall: 0.286, who will: 0.714}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id068 !!python/tuple ['''s', VBZ]
+- MD
+: {he has: 0.4, he is: 0.6}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''ll', MD]
+- NN
+: {it shall: 0.098, it will: 0.902}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id069 !!python/tuple ['''d', MD]
+- MD
+: {it had: 0.306, it would: 0.694}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id070 !!python/tuple ['''d', VBD]
+- NNPS
+: {it had: 1.0}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', VBZ]
+- PRP$
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- RB
+: {what has: 0.091, what is: 0.909}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- VBD
+: {who has: 0.3, who is: 0.7}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- VBD
+: {who will: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- NNS
+: {am not: 0.011, are not: 0.585, has not: 0.011, have not: 0.138, is not: 0.255}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', MD]
+- IN
+: {they had: 0.553, they would: 0.447}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- IN
+: {that has: 0.361, that is: 0.639}
+? !!python/tuple
+- !!python/tuple [ain, NN]
+- !!python/tuple ['''t', NN]
+- TO
+: {has not: 1.0}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- VBZ
+: {who has: 0.357, who is: 0.643}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- VBG
+: {are not: 0.333, is not: 0.667}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- MD
+: {what has: 0.375, what is: 0.625}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- VBZ
+: {that has: 0.387, that is: 0.613}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', MD]
+- NN
+: {it had: 0.208, it would: 0.792}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''ll', MD]
+- JJ
+: {they will: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''ll', MD]
+- RB
+: {it shall: 0.104, it will: 0.896}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''s', VBZ]
+- IN
+: {he has: 0.382, he is: 0.618}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id071 !!python/tuple ['''ll', MD]
+- DT
+: {it shall: 0.094, it will: 0.906}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''s', VBZ]
+- IN
+: {she has: 0.25, she is: 0.75}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', VBD]
+- ','
+: {I had: 0.923, I would: 0.077}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', VBD]
+- DT
+: {she had: 0.983, she would: 0.017}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''s', VBZ]
+- VBN
+: {she has: 0.5, she is: 0.5}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', VBD]
+- IN
+: {I had: 0.867, I would: 0.133}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', VBD]
+- JJ
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- JJ
+: {I had: 0.429, I would: 0.571}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- WP
+: {what has: 0.154, what is: 0.846}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', VBD]
+- IN
+: {that had: 0.889, that would: 0.111}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', VBD]
+- DT
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', VBD]
+- JJ
+: {they had: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', MD]
+- MD
+: {he had: 0.571, he would: 0.429}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', MD]
+- VBP
+: {he had: 0.524, he would: 0.476}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id072 !!python/tuple ['''s', VBZ]
+- RP
+: {it is: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', MD]
+- ','
+: {he had: 0.638, he would: 0.362}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- NN
+: {I had: 0.478, I would: 0.522}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id073 !!python/tuple ['''ll', MD]
+- &id074 !!python/tuple ['''ve', VB]
+- DT
+: {it will have: 1.0}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- ','
+: {who shall: 0.214, who will: 0.786}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id075 !!python/tuple ['''s', VBZ]
+- EX
+: {he has: 0.5, he is: 0.5}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', MD]
+- ','
+: {she had: 0.412, she would: 0.588}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', VBD]
+- VBG
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- DT
+: {there has: 0.046, there is: 0.954}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''ll', MD]
+- PRP
+: {it shall: 0.062, it will: 0.938}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- VBN
+: {there has: 0.154, there is: 0.846}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id076 !!python/tuple ['''s', VBZ]
+- WRB
+: {it has: 0.083, it is: 0.917}
+? !!python/tuple
+- !!python/tuple [ain, VB]
+- !!python/tuple ['''t', NN]
+- JJ
+: {has not: 0.5, is not: 0.5}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- VB
+: {that has: 0.231, that is: 0.769}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- &id077 !!python/tuple ['''ll', MD]
+- NNPS
+: {they shall: 0.333, they will: 0.667}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''ll', MD]
+- VBZ
+: {it shall: 0.031, it will: 0.969}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', POS]
+- DT
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''s', VBZ]
+- TO
+: {it has: 0.326, it is: 0.674}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- TO
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- RP
+: {have not: 0.25, is not: 0.75}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id078 !!python/tuple ['''s', VBZ]
+- PRP$
+: {it has: 0.077, it is: 0.923}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', MD]
+- VBN
+: {that had: 0.2, that would: 0.8}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- VBP
+: {I had: 0.562, I would: 0.438}
+? !!python/tuple
+- !!python/tuple [why, WRB]
+- !!python/tuple ['''s', VBZ]
+- VBZ
+: {why is: 1.0}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', MD]
+- PRP
+: {we had: 0.529, we would: 0.471}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', MD]
+- PRP
+: {it had: 0.236, it would: 0.764}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id079 !!python/tuple ['''ll', MD]
+- PRP$
+: {he will: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- PRP$
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''s', VBZ]
+- VBD
+: {it has: 0.398, it is: 0.602}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''ll', MD]
+- DT
+: {what shall: 0.2, what will: 0.8}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- DT
+: {what has: 0.087, what is: 0.913}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- VBD
+: {you shall: 0.154, you will: 0.846}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', MD]
+- PRP$
+: {it had: 0.438, it would: 0.562}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', MD]
+- DT
+: {they had: 0.581, they would: 0.419}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- IN
+: {I had: 0.553, I would: 0.447}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''s', VBZ]
+- VBN
+: {he has: 0.727, he is: 0.273}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id080 !!python/tuple ['''s', VBZ]
+- RBR
+: {it has: 0.2, it is: 0.8}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- NNPS
+: {who is: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''ll', MD]
+- VB
+: {it shall: 0.175, it will: 0.825}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''ll', MD]
+- MD
+: {they shall: 0.4, they will: 0.6}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', MD]
+- NNS
+: {it had: 0.12, it would: 0.88}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', NN]
+- CD
+: {am not: 0.268, are not: 0.214, have not: 0.446, is not: 0.071}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id081 !!python/tuple ['''d', MD]
+- TO
+: {it had: 0.261, it would: 0.739}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', MD]
+- JJ
+: {you had: 0.5, you would: 0.5}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id082 !!python/tuple ['''ll', MD]
+- &id083 !!python/tuple ['''ve', VB]
+- VBZ
+: {it will have: 1.0}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- IN
+: {what has: 0.074, what is: 0.926}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- VBP
+: {who shall: 0.222, who will: 0.778}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- VBZ
+: {am not: 0.02, are not: 0.167, has not: 0.118, have not: 0.069, is not: 0.627}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', MD]
+- NNP
+: {you had: 0.385, you would: 0.615}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', MD]
+- JJ
+: {they had: 0.533, they would: 0.467}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''s', VBZ]
+- VBZ
+: {she has: 0.366, she is: 0.634}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- JJR
+: {who has: 0.667, who is: 0.333}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', VBD]
+- NNPS
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- JJ
+: {who has: 0.286, who is: 0.714}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', MD]
+- JJ
+: {that had: 0.118, that would: 0.882}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- VBP
+: {who has: 0.524, who is: 0.476}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''s', VBZ]
+- DT
+: {she has: 0.4, she is: 0.6}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- NNS
+: {who shall: 0.143, who will: 0.857}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', MD]
+- ','
+: {they had: 0.645, they would: 0.355}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- ','
+: {I shall: 0.476, I will: 0.524}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- RB
+: {I shall: 0.496, I will: 0.504}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''ll', MD]
+- JJ
+: {what shall: 0.333, what will: 0.667}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', MD]
+- NN
+: {you had: 0.333, you would: 0.667}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''s', VBZ]
+- RB
+: {he has: 0.337, he is: 0.663}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', VBD]
+- JJ
+: {we had: 1.0}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', VBD]
+- NN
+: {we had: 1.0}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', VBD]
+- VBD
+: {we had: 0.9, we would: 0.1}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', VBD]
+- IN
+: {she had: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', MD]
+- VBD
+: {she had: 0.583, she would: 0.417}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id084 !!python/tuple ['''s', VBZ]
+- JJR
+: {it has: 0.143, it is: 0.857}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id085 !!python/tuple ['''d', MD]
+- VBZ
+: {it had: 0.074, it would: 0.926}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', VBD]
+- NNS
+: {we had: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''s', VBZ]
+- VBG
+: {it has: 0.167, it is: 0.833}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', VBZ]
+- EX
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- PRP$
+: {who has: 0.6, who is: 0.4}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- NNS
+: {that has: 0.556, that is: 0.444}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- NN
+: {I shall: 0.526, I will: 0.474}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', VBZ]
+- CC
+: {that has: 0.2, that is: 0.8}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', VBD]
+- VB
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id086 !!python/tuple ['''d', MD]
+- JJS
+: {it would: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', NN]
+- NN
+: {am not: 0.393, are not: 0.143, have not: 0.464}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', MD]
+- NNS
+: {we had: 0.2, we would: 0.8}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- TO
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', MD]
+- DT
+: {there had: 0.077, there would: 0.923}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', MD]
+- VBG
+: {that would: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''s', VBZ]
+- PRP$
+: {he has: 0.286, he is: 0.714}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', NN]
+- WP
+: {am not: 0.333, are not: 0.333, have not: 0.333}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- EX
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', MD]
+- RBR
+: {there would: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, NN]
+- !!python/tuple ['''t', NN]
+- CD
+: {am not: 0.056, are not: 0.074, have not: 0.426, is not: 0.444}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', MD]
+- JJ
+: {we had: 0.333, we would: 0.667}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- VB
+: {there has: 0.034, there is: 0.966}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- RB
+: {who has: 0.4, who is: 0.6}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', VBD]
+- NN
+: {there had: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, NN]
+- !!python/tuple ['''t', NN]
+- ','
+: {has not: 0.571, is not: 0.429}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''s', VBZ]
+- MD
+: {it has: 0.132, it is: 0.868}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- PDT
+: {what is: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- PRP
+: {there has: 0.025, there is: 0.975}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', VBD]
+- NN
+: {she had: 1.0}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- JJ
+: {what has: 0.13, what is: 0.87}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', MD]
+- CD
+: {it had: 0.514, it would: 0.486}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''s', VBZ]
+- RB
+: {she has: 0.237, she is: 0.763}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''s', VBZ]
+- PRP
+: {she has: 0.306, she is: 0.694}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''s', VBZ]
+- VBG
+: {she has: 0.4, she is: 0.6}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', VBD]
+- IN
+: {it had: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- ':'
+: {I shall: 0.273, I will: 0.727}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- CC
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id087 !!python/tuple ['''s', VBZ]
+- '``'
+: {he is: 1.0}
+? !!python/tuple
+- !!python/tuple [where, WRB]
+- !!python/tuple ['''s', VBZ]
+- WRB
+: {where is: 1.0}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- WRB
+: {who will: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id088 !!python/tuple ['''d', MD]
+- WP
+: {he had: 0.375, he would: 0.625}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- DT
+: {who shall: 0.2, who will: 0.8}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- WP
+: {are not: 0.167, has not: 0.333, have not: 0.167, is not: 0.333}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', VBD]
+- RB
+: {they had: 1.0}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', VBZ]
+- MD
+: {that has: 0.071, that is: 0.929}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- ':'
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', VBZ]
+- '``'
+: {so is: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- PRP
+: {you shall: 0.141, you will: 0.859}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', POS]
+- NNS
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id089 !!python/tuple ['''ll', MD]
+- VBG
+: {he shall: 0.5, he will: 0.5}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', VBZ]
+- VBD
+: {that has: 0.083, that is: 0.917}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', MD]
+- MD
+: {they had: 0.684, they would: 0.316}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', MD]
+- '``'
+: {he would: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- PRP
+: {I had: 0.515, I would: 0.485}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', VBD]
+- NN
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''ll', MD]
+- IN
+: {he shall: 0.238, he will: 0.762}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''ll', MD]
+- MD
+: {what shall: 0.917, what will: 0.083}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', NN]
+- DT
+: {are not: 0.375, have not: 0.625}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', MD]
+- VBZ
+: {they had: 0.429, they would: 0.571}
+? !!python/tuple
+- !!python/tuple [ain, VBD]
+- !!python/tuple ['''t', NN]
+- PRP
+: {has not: 0.5, is not: 0.5}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''ll', MD]
+- VBP
+: {they shall: 0.074, they will: 0.926}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- VB
+: {I shall: 0.392, I will: 0.608}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- TO
+: {what has: 0.182, what is: 0.818}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- RBS
+: {who is: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', POS]
+- NN
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', MD]
+- MD
+: {we had: 0.5, we would: 0.5}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- VBN
+: {I had: 0.647, I would: 0.353}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', MD]
+- VB
+: {there would: 1.0}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', MD]
+- ','
+: {we had: 0.2, we would: 0.8}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- VBD
+: {I had: 0.551, I would: 0.449}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', MD]
+- PRP
+: {you had: 0.3, you would: 0.7}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', MD]
+- MD
+: {you had: 0.571, you would: 0.429}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- MD
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- ':'
+: {am not: 0.053, are not: 0.105, has not: 0.158, have not: 0.053, is not: 0.632}
+? !!python/tuple
+- !!python/tuple [I, NNP]
+- !!python/tuple ['''d', NNP]
+- NNP
+: {I had: 0.923, I would: 0.077}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- VBP
+: {what has: 0.077, what is: 0.923}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- JJ
+: {you shall: 0.04, you will: 0.96}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- PRP
+: {who has: 0.438, who is: 0.562}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''ll', MD]
+- NNS
+: {it shall: 0.12, it will: 0.88}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- VB
+: {am not: 0.021, are not: 0.106, has not: 0.106, have not: 0.106, is not: 0.66}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- VBN
+: {I shall: 0.4, I will: 0.6}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- RB
+: {you shall: 0.081, you will: 0.919}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', VBD]
+- DT
+: {they had: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- ','
+: {you shall: 0.244, you will: 0.756}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- RB
+: {you will have: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- &id090 !!python/tuple ['''s', POS]
+- ','
+: {she has: 1.0}
+? !!python/tuple
+- !!python/tuple [that, IN]
+- !!python/tuple ['''s', POS]
+- ','
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', VBD]
+- VBN
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- FW
+: {who is: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- MD
+: {you shall: 0.222, you will: 0.778}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- VBP
+: {you shall: 0.127, you will: 0.873}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', MD]
+- VBP
+: {it had: 0.174, it would: 0.826}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', VBD]
+- IN
+: {we had: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''ll', MD]
+- PRP$
+: {it will: 1.0}
+? !!python/tuple
+- !!python/tuple [how, WRB]
+- !!python/tuple ['''s', POS]
+- WRB
+: {how does: 0.25, how is: 0.75}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''s', VBZ]
+- NNS
+: {it has: 0.198, it is: 0.802}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''s', VBZ]
+- FW
+: {it is: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- VBZ
+: {you shall: 0.133, you will: 0.867}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', MD]
+- IN
+: {you had: 0.174, you would: 0.826}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''ll', MD]
+- VBP
+: {he shall: 0.105, he will: 0.895}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- PRP$
+: {what is: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- WP$
+: {is not: 1.0}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', VBZ]
+- JJ
+: {so as: 0.857, so is: 0.143}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id091 !!python/tuple ['''ll', MD]
+- &id092 !!python/tuple ['''ve', VB]
+- MD
+: {he will have: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- MD
+: {that has: 0.4, that is: 0.6}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''s', VBZ]
+- VB
+: {she has: 0.231, she is: 0.769}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', MD]
+- VBN
+: {she had: 0.538, she would: 0.462}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- &id093 !!python/tuple ['''s', VBZ]
+- CC
+: {she has: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id094 !!python/tuple ['''d', VBD]
+- VBN
+: {it had: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', MD]
+- CD
+: {he had: 0.645, he would: 0.355}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', POS]
+- NNP
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', VBD]
+- DT
+: {I had: 0.926, I would: 0.074}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- NN
+: {you shall: 0.227, you will: 0.773}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', VBD]
+- NNS
+: {they had: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- JJR
+: {you will: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- NNS
+: {you will have: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- IN
+: {you shall: 0.138, you will: 0.862}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- JJ
+: {you will have: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- VBP
+: {I shall: 0.465, I will: 0.535}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- JJR
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', MD]
+- ','
+: {there would: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', MD]
+- MD
+: {there had: 0.143, there would: 0.857}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- &id095 !!python/tuple ['''ll', MD]
+- &id096 !!python/tuple ['''ve', VB]
+- VB
+: {they will have: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- '``'
+: {you will have: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', VBD]
+- PRP$
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', VBD]
+- VBD
+: {that had: 0.96, that would: 0.04}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', MD]
+- JJR
+: {he had: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- PRP$
+: {are not: 0.345, has not: 0.034, have not: 0.069, is not: 0.552}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''ll', MD]
+- VBG
+: {it will: 1.0}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- MD
+: {who has: 0.75, who is: 0.25}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id097 !!python/tuple ['''ll', MD]
+- TO
+: {he will: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', NN]
+- MD
+: {am not: 0.167, are not: 0.333, have not: 0.333, is not: 0.167}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', VBZ]
+- JJ
+: {that has: 0.043, that is: 0.957}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- VBD
+: {what has: 0.083, what is: 0.917}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- VBG
+: {who will: 1.0}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', VBZ]
+- VBZ
+: {so as: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id098 !!python/tuple ['''s', VBZ]
+- WDT
+: {he has: 0.4, he is: 0.6}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- JJS
+: {what is: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- NNS
+: {you shall: 0.167, you will: 0.833}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''s', VBZ]
+- '``'
+: {she has: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- '``'
+: {there has: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', VBD]
+- RB
+: {it had: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', VBD]
+- EX
+: {there had: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id099 !!python/tuple ['''d', MD]
+- WRB
+: {it would: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- VBN
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', MD]
+- '``'
+: {that would: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', VBD]
+- VBN
+: {they had: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', MD]
+- CC
+: {they had: 0.545, they would: 0.455}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- NNS
+: {what has: 0.083, what is: 0.917}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', MD]
+- VBG
+: {you would: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- DT
+: {you shall: 0.192, you will: 0.808}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- TO
+: {you shall: 0.25, you will: 0.75}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', VBZ]
+- NNP
+: {so as: 0.5, so is: 0.5}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', NN]
+- VBZ
+: {are not: 0.5, have not: 0.25, is not: 0.25}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''ll', MD]
+- NN
+: {she shall: 0.2, she will: 0.8}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', VBD]
+- PRP$
+: {she had: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', MD]
+- NN
+: {she had: 0.558, she would: 0.442}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', MD]
+- RP
+: {that would: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', MD]
+- PRP$
+: {she had: 0.6, she would: 0.4}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- ''''''
+: {who has: 0.714, who is: 0.286}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id100 !!python/tuple ['''ll', MD]
+- &id101 !!python/tuple ['''ve', VB]
+- ','
+: {it will have: 1.0}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', POS]
+- NN
+: {so as: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', MD]
+- VBP
+: {you had: 0.382, you would: 0.618}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', MD]
+- WP
+: {it had: 0.4, it would: 0.6}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', VBD]
+- NNS
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', VBD]
+- NNS
+: {it had: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id102 !!python/tuple ['''d', VBD]
+- WDT
+: {he had: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- VBG
+: {I shall: 0.667, I will: 0.333}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''ll', MD]
+- VBG
+: {they will: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', VBD]
+- NNP
+: {that had: 0.818, that would: 0.182}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- JJS
+: {are not: 0.4, have not: 0.2, is not: 0.4}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', VBD]
+- WRB
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- WRB
+: {I had: 0.667, I would: 0.333}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', NNP]
+- JJ
+: {there had: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', VBD]
+- VBN
+: {he had: 0.964, he would: 0.036}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', MD]
+- VBZ
+: {he had: 0.364, he would: 0.636}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', VBD]
+- ','
+: {that had: 0.875, that would: 0.125}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- &id103 !!python/tuple ['''d', VBD]
+- RP
+: {she had: 1.0}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- ':'
+: {who has: 0.5, who is: 0.5}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', MD]
+- IN
+: {she had: 0.558, she would: 0.442}
+? !!python/tuple
+- !!python/tuple [ain, RB]
+- !!python/tuple ['''t', VBP]
+- NN
+: {is not: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- WP
+: {there has: 0.25, there is: 0.75}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''s', VBZ]
+- CC
+: {it has: 0.754, it is: 0.246}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', MD]
+- VBN
+: {it had: 0.25, it would: 0.75}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', VBD]
+- RP
+: {he had: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id104 !!python/tuple ['''ll', MD]
+- VBN
+: {he will: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', MD]
+- NNS
+: {he had: 0.783, he would: 0.217}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', VBD]
+- ','
+: {there had: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id105 !!python/tuple ['''d', VBD]
+- VB
+: {he had: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', VBD]
+- NNS
+: {she had: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', MD]
+- RB
+: {she had: 0.5, she would: 0.5}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', VBD]
+- VBD
+: {she had: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', VBD]
+- ','
+: {she had: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- NNP
+: {I had: 0.455, I would: 0.545}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- JJ
+: {I shall: 0.548, I will: 0.452}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', MD]
+- TO
+: {you had: 0.667, you would: 0.333}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', VBZ]
+- VBN
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', VBD]
+- PRP
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', VBD]
+- PRP
+: {they had: 1.0}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- VB
+: {what has: 0.3, what is: 0.7}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- VBD
+: {that has: 0.364, that is: 0.636}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', MD]
+- ','
+: {that would: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- WP
+: {I had: 0.5, I would: 0.5}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id106 !!python/tuple ['''s', VBZ]
+- WP
+: {it has: 0.182, it is: 0.818}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', MD]
+- WP
+: {we would: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', NN]
+- RB
+: {am not: 0.6, are not: 0.2, have not: 0.2}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- PRP
+: {what has: 0.034, what is: 0.966}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', VBD]
+- VBZ
+: {that had: 0.667, that would: 0.333}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', MD]
+- EX
+: {there had: 0.2, there would: 0.8}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', POS]
+- EX
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''ll', MD]
+- ','
+: {it shall: 0.091, it will: 0.909}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- &id107 !!python/tuple ['''d', MD]
+- RBS
+: {they had: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', VBD]
+- VBD
+: {they had: 1.0}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', VBD]
+- DT
+: {we had: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- NNS
+: {I had: 0.375, I would: 0.625}
+? !!python/tuple
+- !!python/tuple [I, NNP]
+- !!python/tuple ['''d', NNP]
+- IN
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', VBD]
+- PRP
+: {we had: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- IN
+: {I shall: 0.603, I will: 0.397}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''ll', MD]
+- DT
+: {they will: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', NN]
+- NNS
+: {are not: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', MD]
+- NNS
+: {that had: 0.143, that would: 0.857}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', MD]
+- VBP
+: {that would: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', NN]
+- VB
+: {am not: 0.25, are not: 0.25, have not: 0.5}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', NN]
+- ','
+: {am not: 0.25, are not: 0.417, have not: 0.333}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''ll', MD]
+- IN
+: {she will: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', VBD]
+- NN
+: {it had: 0.946, it would: 0.054}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- JJ
+: {who will: 1.0}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', VBZ]
+- RB
+: {that has: 0.053, that is: 0.947}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', VBZ]
+- TO
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', VBZ]
+- PRP
+: {that has: 0.083, that is: 0.917}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', VBD]
+- ','
+: {they had: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', MD]
+- PRP$
+: {they had: 0.357, they would: 0.643}
+? !!python/tuple
+- !!python/tuple [that, IN]
+- !!python/tuple ['''s', POS]
+- VBD
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', MD]
+- EX
+: {that would: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', JJ]
+- RB
+: {have not: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- VBZ
+: {I had: 0.385, I would: 0.615}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- '``'
+: {I would: 1.0}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', VBD]
+- NNP
+: {we had: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- JJ
+: {that has: 0.267, that is: 0.733}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id108 !!python/tuple ['''s', VBZ]
+- ':'
+: {it has: 0.51, it is: 0.49}
+? !!python/tuple
+- !!python/tuple [I, NNP]
+- !!python/tuple ['''d', NNP]
+- RB
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- RBR
+: {what is: 1.0}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', VBZ]
+- NNS
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', NN]
+- VBD
+: {am not: 0.125, are not: 0.125, have not: 0.625, is not: 0.125}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', POS]
+- VBN
+: {what is: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', MD]
+- NNP
+: {she had: 0.5, she would: 0.5}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', VBD]
+- RB
+: {she had: 0.977, she would: 0.023}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id109 !!python/tuple ['''d', VBD]
+- TO
+: {he had: 0.964, he would: 0.036}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- NNP
+: {I shall: 0.457, I will: 0.543}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', MD]
+- RB
+: {you had: 0.472, you would: 0.528}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- TO
+: {I shall have: 0.6, I will have: 0.4}
+? !!python/tuple
+- !!python/tuple [I, NNP]
+- !!python/tuple ['''d', NNP]
+- ','
+: {I had: 0.667, I would: 0.333}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', VBD]
+- ','
+: {you had: 0.5, you would: 0.5}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', MD]
+- ','
+: {you had: 0.282, you would: 0.718}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', VBD]
+- JJ
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [how, WRB]
+- !!python/tuple ['''s', VBZ]
+- IN
+: {how does: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', NN]
+- IN
+: {am not: 0.273, are not: 0.273, has not: 0.091, have not: 0.273, is not: 0.091}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- &id110 !!python/tuple ['''d', VBD]
+- WP
+: {she had: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VB]
+- !!python/tuple ['''t', NN]
+- VBD
+: {have not: 0.5, is not: 0.5}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', VBD]
+- PRP
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', VBD]
+- NNP
+: {she had: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- &id111 !!python/tuple ['''d', VBD]
+- VBP
+: {she had: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', VBD]
+- JJ
+: {she had: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- RBS
+: {are not: 0.5, is not: 0.5}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- NNP
+: {you shall: 0.192, you will: 0.808}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- ''''''
+: {you will have: 1.0}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''ll', MD]
+- VBD
+: {what shall: 0.5, what will: 0.5}
+? !!python/tuple
+- !!python/tuple [I, NNP]
+- !!python/tuple ['''d', NNP]
+- NN
+: {I had: 0.857, I would: 0.143}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''ll', MD]
+- WP
+: {what shall: 0.333, what will: 0.667}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- &id112 !!python/tuple ['''d', MD]
+- VBG
+: {she had: 0.714, she would: 0.286}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', MD]
+- NN
+: {there would: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', VBD]
+- CD
+: {he had: 0.99, he would: 0.01}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', VBZ]
+- WRB
+: {so as: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', VBD]
+- VBD
+: {it had: 0.943, it would: 0.057}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', VBD]
+- NNP
+: {it had: 0.986, it would: 0.014}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', VBD]
+- VBP
+: {he had: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', VBD]
+- VBN
+: {she had: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', MD]
+- VBN
+: {they had: 0.731, they would: 0.269}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', VBD]
+- RB
+: {we had: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id113 !!python/tuple ['''s', VBZ]
+- RBS
+: {he has: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''s', VBZ]
+- RBS
+: {it is: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', NN]
+- '``'
+: {are not: 1.0}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', VBZ]
+- NN
+: {so as: 0.933, so is: 0.067}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- ''''''
+: {what has: 0.833, what is: 0.167}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', POS]
+- IN
+: {so as: 1.0}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', MD]
+- VBP
+: {we had: 0.55, we would: 0.45}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', VBD]
+- RB
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id114 !!python/tuple ['''d', VBD]
+- ''''''
+: {he had: 1.0}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''d', MD]
+- VBD
+: {that would: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', MD]
+- RB
+: {it had: 0.2, it would: 0.8}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- VBG
+: {I had: 0.5, I would: 0.5}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', VBD]
+- RB
+: {I had: 0.929, I would: 0.071}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- VBN
+: {you shall: 0.333, you will: 0.667}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- IN
+: {you will have: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''s', VBZ]
+- JJR
+: {he is: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- MD
+: {you shall have: 0.5, you will have: 0.5}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', VBD]
+- WP
+: {he had: 1.0}
+? !!python/tuple
+- !!python/tuple [I, NNP]
+- !!python/tuple ['''d', NNP]
+- VB
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', VBD]
+- NNP
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [I, NNP]
+- !!python/tuple ['''d', NNP]
+- TO
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id115 !!python/tuple ['''d', VBD]
+- VBG
+: {he had: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', MD]
+- VBG
+: {they had: 0.3, they would: 0.7}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', VBD]
+- TO
+: {she had: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- NNS
+: {I shall: 0.474, I will: 0.526}
+? !!python/tuple
+- !!python/tuple [I, NNP]
+- !!python/tuple ['''d', NNP]
+- PRP$
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id116 !!python/tuple ['''s', VBZ]
+- ''''''
+: {it has: 0.091, it is: 0.909}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- CD
+: {I had: 0.301, I would: 0.699}
+? !!python/tuple
+- !!python/tuple [I, NNP]
+- !!python/tuple ['''d', NNP]
+- VBD
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, NN]
+- !!python/tuple ['''t', NN]
+- PRP
+: {am not: 0.5, is not: 0.5}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''ll', MD]
+- VBZ
+: {she shall: 0.125, she will: 0.875}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- CC
+: {that has: 0.25, that is: 0.75}
+? !!python/tuple
+- !!python/tuple [ain, NN]
+- !!python/tuple ['''t', NN]
+- VBP
+: {am not: 0.25, are not: 0.25, is not: 0.5}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- EX
+: {is not: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''s', VBZ]
+- EX
+: {it has: 0.154, it is: 0.846}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- VBZ
+: {who shall: 0.143, who will: 0.857}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', MD]
+- VBG
+: {he had: 0.7, he would: 0.3}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', MD]
+- DT
+: {we had: 0.333, we would: 0.667}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', VBZ]
+- MD
+: {so as: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''ll', MD]
+- NNP
+: {they will: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, NN]
+- !!python/tuple ['''t', NN]
+- RB
+: {are not: 0.167, has not: 0.333, have not: 0.333, is not: 0.167}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- VBN
+: {what is: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- PRP
+: {I shall have: 0.778, I will have: 0.222}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- CC
+: {what is: 1.0}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', VBZ]
+- ','
+: {so as: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, NN]
+- !!python/tuple ['''t', NN]
+- DT
+: {are not: 0.143, has not: 0.214, is not: 0.643}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', MD]
+- IN
+: {we had: 0.2, we would: 0.8}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', VBD]
+- DT
+: {it had: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- &id117 !!python/tuple ['''ll', MD]
+- RBR
+: {they will: 1.0}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', VBZ]
+- CD
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', VBZ]
+- WDT
+: {so as: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''ll', MD]
+- VBZ
+: {they shall: 0.1, they will: 0.9}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- WRB
+: {am not: 0.143, are not: 0.143, has not: 0.286, is not: 0.429}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', MD]
+- VBN
+: {there had: 0.5, there would: 0.5}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', VBZ]
+- NNS
+: {so as: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''s', VBZ]
+- VBP
+: {she has: 0.333, she is: 0.667}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', POS]
+- JJ
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [that, IN]
+- !!python/tuple ['''s', POS]
+- IN
+: {that has: 0.5, that is: 0.5}
+? !!python/tuple
+- !!python/tuple [ain, NN]
+- !!python/tuple ['''t', NN]
+- JJ
+: {am not: 0.083, are not: 0.083, has not: 0.25, have not: 0.25, is not: 0.333}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', VBZ]
+- IN
+: {so as: 0.812, so is: 0.188}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', VBD]
+- JJ
+: {it had: 1.0}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', VBD]
+- ','
+: {we had: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- &id118 !!python/tuple ['''d', MD]
+- FW
+: {they had: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', NN]
+- VBN
+: {am not: 0.333, have not: 0.667}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', MD]
+- DT
+: {she had: 0.429, she would: 0.571}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- RBR
+: {I would: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', MD]
+- VBZ
+: {that would: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id119 !!python/tuple ['''ll', MD]
+- &id120 !!python/tuple ['''ve', VB]
+- VBN
+: {it will have: 1.0}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', VBD]
+- TO
+: {we had: 1.0}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- EX
+: {who will: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- ','
+: {they will have: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''ll', MD]
+- TO
+: {they shall: 0.333, they will: 0.667}
+? !!python/tuple
+- !!python/tuple [ain, NN]
+- !!python/tuple ['''t', NN]
+- VBZ
+: {are not: 0.167, has not: 0.5, is not: 0.333}
+? !!python/tuple
+- !!python/tuple [ain, NN]
+- !!python/tuple ['''t', NN]
+- VB
+: {are not: 0.5, has not: 0.5}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', POS]
+- VBP
+: {so as: 0.667, so is: 0.333}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', MD]
+- JJ
+: {there would: 1.0}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', MD]
+- VB
+: {we had: 0.444, we would: 0.556}
+? !!python/tuple
+- !!python/tuple [why, WRB]
+- !!python/tuple ['''s', VBZ]
+- DT
+: {why is: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', MD]
+- TO
+: {that would: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id121 !!python/tuple ['''s', VBZ]
+- WP$
+: {it is: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id122 !!python/tuple ['''s', POS]
+- NN
+: {it has: 0.5, it is: 0.5}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', VBZ]
+- TO
+: {so as: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', MD]
+- PRP
+: {there would: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', POS]
+- VB
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [how, WRB]
+- !!python/tuple ['''s', VBZ]
+- DT
+: {how does: 0.5, how is: 0.5}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', MD]
+- VBZ
+: {we had: 0.4, we would: 0.6}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''s', VBZ]
+- CC
+: {he has: 0.5, he is: 0.5}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id123 !!python/tuple ['''d', VBD]
+- VBZ
+: {he had: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, NN]
+- !!python/tuple ['''t', NN]
+- CC
+: {are not: 0.5, is not: 0.5}
+? !!python/tuple
+- !!python/tuple [ain, NN]
+- !!python/tuple ['''t', NN]
+- PDT
+: {is not: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', POS]
+- IN
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', NN]
+- JJ
+: {are not: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, NN]
+- !!python/tuple ['''t', NN]
+- WDT
+: {is not: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- CD
+: {am not: 0.045, are not: 0.165, has not: 0.007, have not: 0.295, is not: 0.487}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- JJR
+: {are not: 0.5, is not: 0.5}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', NN]
+- TO
+: {are not: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', MD]
+- NNP
+: {that had: 0.067, that would: 0.933}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''d', MD]
+- NNP
+: {that had: 0.333, that would: 0.667}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', VBD]
+- PRP
+: {it had: 0.968, it would: 0.032}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', MD]
+- TO
+: {he had: 0.444, he would: 0.556}
+? !!python/tuple
+- !!python/tuple [I, NNP]
+- !!python/tuple ['''d', NNP]
+- DT
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [I, NNP]
+- !!python/tuple ['''d', NNP]
+- JJ
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', VBD]
+- DT
+: {there had: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', MD]
+- MD
+: {she had: 0.419, she would: 0.581}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', VBD]
+- VBP
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''d', MD]
+- RB
+: {that had: 0.25, that would: 0.75}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- &id124 !!python/tuple ['''d', MD]
+- ':'
+: {they had: 0.333, they would: 0.667}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', VBZ]
+- WRB
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', VBD]
+- MD
+: {she had: 0.889, she would: 0.111}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- VB
+: {you shall: 0.292, you will: 0.708}
+? !!python/tuple
+- !!python/tuple [where, WRB]
+- !!python/tuple ['''s', POS]
+- ','
+: {where is: 1.0}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''d', MD]
+- DT
+: {that would: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id125 !!python/tuple ['''d', MD]
+- ''''''
+: {he had: 0.333, he would: 0.667}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', MD]
+- NNP
+: {we had: 0.75, we would: 0.25}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', MD]
+- IN
+: {there had: 0.167, there would: 0.833}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', MD]
+- WRB
+: {he had: 0.286, he would: 0.714}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id126 !!python/tuple ['''ll', MD]
+- CD
+: {it shall: 0.961, it will: 0.039}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- VBN
+: {who has: 0.625, who is: 0.375}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- VB
+: {who shall: 0.294, who will: 0.706}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', VBD]
+- VBP
+: {they had: 0.667, they would: 0.333}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', MD]
+- VBD
+: {you had: 0.281, you would: 0.719}
+? !!python/tuple
+- !!python/tuple [I, NNP]
+- !!python/tuple ['''d', NNP]
+- CD
+: {I had: 0.917, I would: 0.083}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id127 !!python/tuple ['''d', VBD]
+- PDT
+: {he had: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', VBD]
+- PRP$
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', VBD]
+- CD
+: {that had: 0.987, that would: 0.013}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', MD]
+- WRB
+: {she had: 0.8, she would: 0.2}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', MD]
+- JJ
+: {she had: 0.481, she would: 0.519}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', MD]
+- NNS
+: {she had: 0.333, she would: 0.667}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', VBD]
+- VB
+: {she had: 0.96, she would: 0.04}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', MD]
+- VB
+: {she had: 0.217, she would: 0.783}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', VBD]
+- VBG
+: {she had: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', MD]
+- CC
+: {he had: 0.625, he would: 0.375}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- JJS
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id128 !!python/tuple ['''d', VBD]
+- CC
+: {he had: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', VBD]
+- PDT
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [I, NNP]
+- !!python/tuple ['''d', NNP]
+- PRP
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', VBD]
+- VBN
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', MD]
+- VBP
+: {she had: 0.364, she would: 0.636}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', VBZ]
+- RP
+: {so as: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- CD
+: {you shall: 0.727, you will: 0.273}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', POS]
+- VBD
+: {so as: 1.0}
+? !!python/tuple
+- !!python/tuple [why, WRB]
+- !!python/tuple ['''s', VBZ]
+- ','
+: {why is: 1.0}
+? !!python/tuple
+- !!python/tuple [how, WRB]
+- !!python/tuple ['''s', VBZ]
+- ','
+: {how is: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', VBD]
+- TO
+: {there had: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', MD]
+- WRB
+: {they had: 0.75, they would: 0.25}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', VBD]
+- RB
+: {there had: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- ''''''
+: {are not: 0.7, have not: 0.1, is not: 0.2}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', NNP]
+- NNP
+: {there had: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', MD]
+- RBS
+: {she would: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id129 !!python/tuple ['''d', MD]
+- EX
+: {it would: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', VBD]
+- NN
+: {you had: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', VBD]
+- JJ
+: {there had: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', MD]
+- PDT
+: {you would: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''s', VBZ]
+- WRB
+: {he has: 0.25, he is: 0.75}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', MD]
+- VBD
+: {that had: 0.04, that would: 0.96}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', VBD]
+- CC
+: {she had: 0.8, she would: 0.2}
+? !!python/tuple
+- !!python/tuple [that, IN]
+- !!python/tuple ['''d', NNP]
+- DT
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', MD]
+- VBN
+: {we had: 0.4, we would: 0.6}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id130 !!python/tuple ['''s', POS]
+- POS
+: {it has: 0.333, it is: 0.667}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id131 !!python/tuple ['''d', MD]
+- .
+: {he had: 0.2, he would: 0.8}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', MD]
+- TO
+: {they had: 0.571, they would: 0.429}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', MD]
+- VBG
+: {it had: 0.273, it would: 0.727}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', VBD]
+- VBG
+: {they had: 1.0}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', VBD]
+- VBN
+: {we had: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id132 !!python/tuple ['''d', MD]
+- RP
+: {he had: 0.333, he would: 0.667}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id133 !!python/tuple ['''d', VBD]
+- JJR
+: {he had: 1.0}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', VBZ]
+- VB
+: {so as: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', MD]
+- CC
+: {that would: 1.0}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''d', VBD]
+- VBD
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''ll', MD]
+- MD
+: {she shall: 0.222, she will: 0.778}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', MD]
+- JJR
+: {it would: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', MD]
+- PRP
+: {that had: 0.083, that would: 0.917}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', MD]
+- RP
+: {she had: 0.5, she would: 0.5}
+? !!python/tuple
+- !!python/tuple [I, NNP]
+- !!python/tuple ['''d', NNP]
+- VBG
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', VBD]
+- ':'
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- ':'
+: {I had: 0.571, I would: 0.429}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''ll', MD]
+- CD
+: {he shall: 0.794, he will: 0.206}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', MD]
+- ''''''
+: {it had: 0.25, it would: 0.75}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''ll', MD]
+- VBN
+: {she will: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', MD]
+- MD
+: {that had: 0.2, that would: 0.8}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', VBD]
+- VBN
+: {there had: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', MD]
+- EX
+: {you would: 1.0}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', VBZ]
+- VBP
+: {that has: 0.048, that is: 0.952}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', MD]
+- DT
+: {you had: 0.571, you would: 0.429}
+? !!python/tuple
+- !!python/tuple [where, WRB]
+- !!python/tuple ['''s', VBZ]
+- ','
+: {where is: 1.0}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', MD]
+- RB
+: {we had: 0.667, we would: 0.333}
+? !!python/tuple
+- !!python/tuple [I, NNP]
+- !!python/tuple ['''d', NNP]
+- RBR
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- WRB
+: {I shall: 0.5, I will: 0.5}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- DT
+: {I shall: 0.556, I will: 0.444}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', MD]
+- ':'
+: {it had: 0.5, it would: 0.5}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- EX
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''d', MD]
+- VBP
+: {that would: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- CC
+: {I had: 0.667, I would: 0.333}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', VBD]
+- WRB
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', VBD]
+- VBP
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''d', MD]
+- MD
+: {that had: 0.2, that would: 0.8}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- ''''''
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', VBD]
+- IN
+: {there had: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', VBD]
+- NNS
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- JJS
+: {I had: 0.333, I would: 0.667}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', MD]
+- JJS
+: {he would: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''ll', MD]
+- VBN
+: {it will: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- PRP$
+: {that has: 0.25, that is: 0.75}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id134 !!python/tuple ['''ll', MD]
+- CC
+: {it shall: 0.093, it will: 0.907}
+? !!python/tuple
+- !!python/tuple [where, WRB]
+- !!python/tuple ['''s', VBZ]
+- NN
+: {where is: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''ll', MD]
+- RB
+: {she shall: 0.125, she will: 0.875}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''ll', MD]
+- JJ
+: {she shall: 0.1, she will: 0.9}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', MD]
+- VBZ
+: {you had: 0.2, you would: 0.8}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- .
+: {am not: 0.087, are not: 0.043, has not: 0.174, have not: 0.174, is not: 0.522}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''ll', MD]
+- TO
+: {it shall: 0.05, it will: 0.95}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- TO
+: {who will: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id135 !!python/tuple ['''s', VBZ]
+- .
+: {it has: 0.154, it is: 0.846}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''ll', MD]
+- NNP
+: {what shall: 0.5, what will: 0.5}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- TO
+: {I shall: 0.571, I will: 0.429}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', NN]
+- NNP
+: {am not: 0.333, are not: 0.333, is not: 0.333}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''ll', MD]
+- DT
+: {she will: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- &id136 !!python/tuple ['''s', POS]
+- DT
+: {she has: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id137 !!python/tuple ['''ll', MD]
+- &id138 !!python/tuple ['''ve', VB]
+- JJ
+: {it shall have: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', MD]
+- CC
+: {she had: 0.75, she would: 0.25}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- NN
+: {I shall have: 0.6, I will have: 0.4}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', VBZ]
+- VB
+: {that has: 0.143, that is: 0.857}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''s', VBZ]
+- .
+: {he has: 0.667, he is: 0.333}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', MD]
+- PRP$
+: {you had: 0.333, you would: 0.667}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', JJ]
+- NN
+: {are not: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''s', VBZ]
+- TO
+: {she has: 0.5, she is: 0.5}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''ll', MD]
+- VB
+: {he shall: 0.296, he will: 0.704}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', VBZ]
+- ':'
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- PRP$
+: {you shall: 0.182, you will: 0.818}
+? !!python/tuple
+- !!python/tuple [I, NNP]
+- !!python/tuple ['''d', NNP]
+- FW
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- RP
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [how, WRB]
+- !!python/tuple ['''s', POS]
+- NNP
+: {how does: 0.333, how is: 0.667}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''ll', MD]
+- PRP
+: {she will: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- MD
+: {she will have: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- &id139 !!python/tuple ['''ll', MD]
+- POS
+: {she will: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- &id140 !!python/tuple ['''s', VBZ]
+- POS
+: {she is: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- &id141 !!python/tuple ['''ll', MD]
+- WDT
+: {she will: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''ll', MD]
+- ','
+: {she shall: 0.1, she will: 0.9}
+? !!python/tuple
+- !!python/tuple [ain, NNP]
+- !!python/tuple ['''t', NNP]
+- VBG
+: {have not: 0.667, is not: 0.333}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', MD]
+- VBZ
+: {she had: 0.5, she would: 0.5}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- CC
+: {I shall: 0.333, I will: 0.667}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', VBZ]
+- VBD
+: {so as: 1.0}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', VBZ]
+- NNP
+: {that has: 0.071, that is: 0.929}
+? !!python/tuple
+- !!python/tuple [how, WRB]
+- !!python/tuple ['''s', VBZ]
+- .
+: {how is: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', NN]
+- ','
+: {are not: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', MD]
+- VB
+: {you had: 0.25, you would: 0.75}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', MD]
+- VBN
+: {you had: 0.6, you would: 0.4}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', MD]
+- WP
+: {she had: 0.6, she would: 0.4}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- .
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- VBZ
+: {he will have: 1.0}
+? !!python/tuple
+- !!python/tuple [I, NNP]
+- !!python/tuple ['''d', NNP]
+- VBN
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- ','
+: {you will have: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- &id142 !!python/tuple ['''d', VBD]
+- .
+: {she had: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''ll', MD]
+- DT
+: {he shall: 0.357, he will: 0.643}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- .
+: {what has: 0.5, what is: 0.5}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''s', VBZ]
+- MD
+: {she has: 0.4, she is: 0.6}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', POS]
+- ','
+: {so as: 0.5, so is: 0.5}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''ll', MD]
+- CC
+: {they will: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', MD]
+- NNPS
+: {he would: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- WP
+: {you will: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''ll', MD]
+- ','
+: {he shall: 0.174, he will: 0.826}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', VBD]
+- VBZ
+: {she had: 0.75, she would: 0.25}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''s', VBZ]
+- ':'
+: {she has: 0.333, she is: 0.667}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', MD]
+- CD
+: {she had: 0.579, she would: 0.421}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''s', VBZ]
+- CD
+: {she has: 0.037, she is: 0.963}
+? !!python/tuple
+- !!python/tuple [I, NNP]
+- !!python/tuple ['''d', NNP]
+- WRB
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', NNP]
+- PRP
+: {there had: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''s', VBZ]
+- VBD
+: {she has: 0.5, she is: 0.5}
+? !!python/tuple
+- !!python/tuple [I, NNP]
+- !!python/tuple ['''d', NNP]
+- VBZ
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- WDT
+: {you will: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- &id143 !!python/tuple ['''d', VBD]
+- POS
+: {she had: 1.0}
+? !!python/tuple
+- !!python/tuple [that, IN]
+- !!python/tuple ['''d', NNP]
+- ','
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', MD]
+- TO
+: {she had: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- CD
+: {I shall: 0.083, I will: 0.917}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- DT
+: {I shall have: 0.833, I will have: 0.167}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- .
+: {you will: 1.0}
+? !!python/tuple
+- !!python/tuple [I, NNP]
+- !!python/tuple ['''d', NNP]
+- MD
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''d', MD]
+- NN
+: {that would: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- &id144 !!python/tuple ['''d', MD]
+- POS
+: {they had: 0.333, they would: 0.667}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', MD]
+- VB
+: {that had: 0.2, that would: 0.8}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- &id145 !!python/tuple ['''ll', MD]
+- &id146 !!python/tuple ['''ve', VB]
+- PRP
+: {she will have: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- PRP$
+: {I had: 0.8, I would: 0.2}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''ll', MD]
+- ':'
+: {what shall: 0.5, what will: 0.5}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', VBD]
+- MD
+: {I had: 0.5, I would: 0.5}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', VBD]
+- PRP
+: {there had: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', VBD]
+- PRP
+: {you had: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''s', VBZ]
+- RP
+: {he is: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', MD]
+- NNP
+: {there would: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''ll', MD]
+- WRB
+: {she will: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', MD]
+- WP
+: {that would: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- &id147 !!python/tuple ['''ll', MD]
+- ':'
+: {she will: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- JJ
+: {I shall have: 0.75, I will have: 0.25}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', MD]
+- .
+: {she had: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', VBD]
+- .
+: {there had: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- .
+: {I had: 0.6, I would: 0.4}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', VBD]
+- .
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''ll', MD]
+- VBP
+: {she will: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id148 !!python/tuple ['''s', POS]
+- VBP
+: {it is: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', VBD]
+- VBZ
+: {I had: 0.333, I would: 0.667}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id149 !!python/tuple ['''d', VBD]
+- ':'
+: {he had: 1.0}
+? !!python/tuple
+- !!python/tuple [I, NNP]
+- !!python/tuple ['''d', NNP]
+- NNS
+: {I had: 0.5, I would: 0.5}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', MD]
+- WDT
+: {that would: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', MD]
+- WP
+: {there would: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- &id150 !!python/tuple ['''ll', MD]
+- WP
+: {they will: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', MD]
+- WP
+: {you would: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id151 !!python/tuple ['''ll', MD]
+- RP
+: {it will: 1.0}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', VBD]
+- ':'
+: {we had: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', FW]
+- PRP
+: {am not: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- .
+: {I shall have: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, NNP]
+- !!python/tuple ['''t', NNP]
+- IN
+: {has not: 0.5, is not: 0.5}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- &id152 !!python/tuple ['''d', MD]
+- PDT
+: {she had: 1.0}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', VBZ]
+- RBS
+: {so as: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', VBD]
+- RB
+: {you had: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- VBD
+: {I shall: 0.22, I will: 0.78}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''d', MD]
+- VBN
+: {that would: 1.0}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''ll', MD]
+- NN
+: {what shall: 0.333, what will: 0.667}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', VBD]
+- WRB
+: {we had: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- JJR
+: {I shall: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- ':'
+: {you will: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- WP
+: {I shall: 0.25, I will: 0.75}
+? !!python/tuple
+- !!python/tuple [when, WRB]
+- !!python/tuple ['''s', POS]
+- WRB
+: {when is: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''ll', MD]
+- ':'
+: {they will: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- POS
+: {are not: 0.25, has not: 0.25, have not: 0.083, is not: 0.417}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''s', VBZ]
+- POS
+: {it has: 0.16, it is: 0.84}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''ll', MD]
+- IN
+: {what will: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, NN]
+- !!python/tuple ['''t', NN]
+- MD
+: {am not: 0.333, have not: 0.333, is not: 0.333}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id153 !!python/tuple ['''s', VBZ]
+- PDT
+: {it is: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', VBD]
+- MD
+: {it had: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', VBD]
+- WDT
+: {she had: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', FW]
+- VBP
+: {am not: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', VBD]
+- .
+: {he had: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', MD]
+- JJS
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- JJS
+: {you shall: 0.5, you will: 0.5}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', VBZ]
+- PRP
+: {so as: 0.833, so is: 0.167}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- PRP$
+: {I shall: 0.318, I will: 0.682}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', VBD]
+- ':'
+: {she had: 1.0}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', VBZ]
+- CC
+: {so as: 1.0}
+? !!python/tuple
+- !!python/tuple [how, WRB]
+- !!python/tuple ['''s', VBZ]
+- VBD
+: {how has: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', MD]
+- POS
+: {she had: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- NNPS
+: {are not: 0.25, is not: 0.75}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', NN]
+- NNPS
+: {have not: 1.0}
+? !!python/tuple
+- !!python/tuple [how, WRB]
+- !!python/tuple ['''s', VBZ]
+- VBZ
+: {how does: 0.333, how is: 0.667}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', VBD]
+- NNP
+: {there had: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', JJ]
+- VBD
+: {are not: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', VBD]
+- CD
+: {she had: 1.0}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', VBD]
+- VBP
+: {we had: 0.667, we would: 0.333}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''d', NNP]
+- TO
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', VBD]
+- VBD
+: {you had: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''s', VBZ]
+- WP
+: {he has: 0.556, he is: 0.444}
+? !!python/tuple
+- !!python/tuple [there, RB]
+- !!python/tuple ['''d', VBD]
+- VBD
+: {there had: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', VBD]
+- PRP$
+: {it had: 0.667, it would: 0.333}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', MD]
+- RP
+: {it had: 0.333, it would: 0.667}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', VBD]
+- VB
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''ll', MD]
+- NNP
+: {she will: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', VBD]
+- WRB
+: {there had: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', VBD]
+- VBG
+: {there had: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- FW
+: {you will: 1.0}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''d', MD]
+- PRP
+: {that had: 0.143, that would: 0.857}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- DT
+: {you shall have: 0.25, you will have: 0.75}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', MD]
+- RP
+: {they had: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', NNP]
+- VBN
+: {there had: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''s', VBZ]
+- '``'
+: {it is: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', MD]
+- VBP
+: {there would: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, NNP]
+- !!python/tuple ['''t', NNP]
+- VBN
+: {have not: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', MD]
+- ':'
+: {that would: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', VBD]
+- VB
+: {they had: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- UH
+: {is not: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- UH
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- &id154 !!python/tuple ['''d', MD]
+- RBR
+: {she had: 1.0}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''ll', MD]
+- VB
+: {what shall: 0.4, what will: 0.6}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', POS]
+- VBN
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''ll', MD]
+- RB
+: {he shall: 0.364, he will: 0.636}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', MD]
+- ':'
+: {he had: 0.6, he would: 0.4}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- VB
+: {you shall have: 0.25, you will have: 0.75}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- PRP$
+: {you will have: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', VBD]
+- VB
+: {it had: 0.833, it would: 0.167}
+? !!python/tuple
+- !!python/tuple [ain, VBD]
+- !!python/tuple ['''t', NN]
+- RBR
+: {is not: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''s', VBZ]
+- RBR
+: {he is: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- VBN
+: {I shall have: 1.0}
+? !!python/tuple
+- !!python/tuple [that, IN]
+- !!python/tuple ['''d', NNP]
+- VBN
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- MD
+: {they will have: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''ll', MD]
+- WRB
+: {they will: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''s', VBZ]
+- ':'
+: {he has: 0.333, he is: 0.667}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''s', VBZ]
+- PDT
+: {he has: 0.5, he is: 0.5}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- EX
+: {who is: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', MD]
+- VBG
+: {there would: 1.0}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''d', MD]
+- NNS
+: {that would: 1.0}
+? !!python/tuple
+- !!python/tuple [how, WRB]
+- !!python/tuple ['''s', POS]
+- POS
+: {how does: 0.5, how is: 0.5}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', NN]
+- PRP$
+: {am not: 0.5, have not: 0.5}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- JJR
+: {I would: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', JJ]
+- VBP
+: {are not: 0.75, have not: 0.25}
+? !!python/tuple
+- !!python/tuple [how, WRB]
+- !!python/tuple ['''s', VBZ]
+- WRB
+: {how does: 0.5, how is: 0.5}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', NN]
+- FW
+: {has not: 0.5, is not: 0.5}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- .
+: {I shall: 0.667, I will: 0.333}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- .
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''s', VBZ]
+- ''''''
+: {he has: 0.4, he is: 0.6}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id155 !!python/tuple ['''d', VBD]
+- EX
+: {he had: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', NN]
+- .
+: {am not: 1.0}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''d', MD]
+- VB
+: {that would: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', VBD]
+- VBP
+: {there had: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- VB
+: {I shall have: 0.2, I will have: 0.8}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', VBD]
+- CC
+: {they had: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', MD]
+- RBR
+: {he had: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', VBD]
+- ':'
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [that, IN]
+- !!python/tuple ['''d', NNP]
+- JJS
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', POS]
+- NNP
+: {so is: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''s', VBZ]
+- PRP$
+: {she has: 0.5, she is: 0.5}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- NNPS
+: {I will: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id156 !!python/tuple ['''s', VBZ]
+- NNPS
+: {it has: 0.857, it is: 0.143}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', VBZ]
+- .
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''ll', MD]
+- WDT
+: {he shall: 0.625, he will: 0.375}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- &id157 !!python/tuple ['''ll', MD]
+- &id158 !!python/tuple ['''ve', VB]
+- PRP$
+: {they shall have: 0.5, they will have: 0.5}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- UH
+: {I will: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id159 !!python/tuple ['''ll', MD]
+- .
+: {it will: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', VBD]
+- WRB
+: {she had: 1.0}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', VBD]
+- ''''''
+: {we had: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', MD]
+- '``'
+: {she would: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', VBD]
+- NNPS
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- VBG
+: {who has: 0.5, who is: 0.5}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', VBD]
+- WP
+: {they had: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id160 !!python/tuple ['''d', VBD]
+- JJS
+: {he had: 1.0}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''d', MD]
+- ':'
+: {that would: 1.0}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- ':'
+: {what has: 0.667, what is: 0.333}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''s', VBZ]
+- WRB
+: {she has: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''ll', MD]
+- CD
+: {she shall: 0.969, she will: 0.031}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''ll', MD]
+- CD
+: {they shall: 0.929, they will: 0.071}
+? !!python/tuple
+- !!python/tuple [why, WRB]
+- !!python/tuple ['''s', POS]
+- POS
+: {why is: 1.0}
+? !!python/tuple
+- !!python/tuple [where, WRB]
+- !!python/tuple ['''s', VBZ]
+- VBD
+: {where is: 1.0}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- CD
+: {what is: 1.0}
+? !!python/tuple
+- !!python/tuple [where, WRB]
+- !!python/tuple ['''s', VBZ]
+- PRP
+: {where is: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''ll', MD]
+- CC
+: {he shall: 0.667, he will: 0.333}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''ll', MD]
+- CD
+: {what shall: 0.864, what will: 0.136}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''ll', MD]
+- ','
+: {what shall: 0.556, what will: 0.444}
+? !!python/tuple
+- !!python/tuple [ain, NNP]
+- !!python/tuple ['''t', NNP]
+- CD
+: {have not: 0.4, is not: 0.6}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', VBD]
+- CD
+: {I had: 0.889, I would: 0.111}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', MD]
+- CD
+: {we had: 0.364, we would: 0.636}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', VBD]
+- CD
+: {we had: 0.941, we would: 0.059}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''ll', MD]
+- PRP
+: {what shall: 1.0}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- CD
+: {who shall: 0.756, who will: 0.244}
+? !!python/tuple
+- !!python/tuple [where, WRB]
+- !!python/tuple ['''s', POS]
+- CD
+: {where is: 1.0}
+? !!python/tuple
+- !!python/tuple [why, WRB]
+- !!python/tuple ['''s', VBZ]
+- PRP
+: {why is: 1.0}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', VBZ]
+- CD
+: {so as: 0.162, so is: 0.838}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id161 !!python/tuple ['''ll', MD]
+- &id162 !!python/tuple ['''ve', VB]
+- IN
+: {he shall have: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id163 !!python/tuple ['''ll', MD]
+- &id164 !!python/tuple ['''ve', VB]
+- CC
+: {it shall have: 1.0}
+? !!python/tuple
+- !!python/tuple [that, IN]
+- !!python/tuple ['''s', POS]
+- CD
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- PRP
+: {he shall have: 0.5, he will have: 0.5}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- FW
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- IN
+: {I shall have: 0.286, I will have: 0.714}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- CC
+: {they shall have: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id165 !!python/tuple ['''ll', MD]
+- &id166 !!python/tuple ['''ve', VB]
+- NNP
+: {he shall have: 0.667, he will have: 0.333}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- IN
+: {they shall have: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- CC
+: {I shall have: 0.167, I will have: 0.833}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', POS]
+- CD
+: {so as: 0.214, so is: 0.786}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id167 !!python/tuple ['''s', POS]
+- CD
+: {it is: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, NNP]
+- !!python/tuple ['''t', NNP]
+- VBD
+: {am not: 0.143, has not: 0.714, have not: 0.143}
+? !!python/tuple
+- !!python/tuple [why, WRB]
+- !!python/tuple ['''s', VBZ]
+- CD
+: {why is: 1.0}
+? !!python/tuple
+- !!python/tuple [where, WRB]
+- !!python/tuple ['''s', VBZ]
+- CD
+: {where is: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', POS]
+- CD
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', MD]
+- CD
+: {there had: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''ll', MD]
+- PRP$
+: {they shall: 0.75, they will: 0.25}
+? !!python/tuple
+- !!python/tuple [why, WRB]
+- !!python/tuple ['''s', VBZ]
+- NNP
+: {why is: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', JJ]
+- CD
+: {are not: 0.333, have not: 0.667}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''d', NNP]
+- DT
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''ll', MD]
+- PRP$
+: {what shall: 0.5, what will: 0.5}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', MD]
+- POS
+: {he had: 0.733, he would: 0.267}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- CC
+: {he shall have: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', VBD]
+- CD
+: {there had: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, NN]
+- !!python/tuple ['''t', VBZ]
+- CD
+: {is not: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''ll', MD]
+- VBD
+: {they shall: 0.667, they will: 0.333}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', VBD]
+- CD
+: {it had: 1.0}
+? !!python/tuple
+- !!python/tuple [that, IN]
+- !!python/tuple ['''d', NNP]
+- CD
+: {that had: 0.75, that would: 0.25}
+? !!python/tuple
+- !!python/tuple [that, IN]
+- !!python/tuple ['''d', NNP]
+- VBD
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''d', NNP]
+- CD
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', VBZ]
+- PDT
+: {so as: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', VBD]
+- PDT
+: {they had: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', MD]
+- PDT
+: {they would: 1.0}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- PRP$
+: {who shall: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- PRP$
+: {he shall have: 1.0}
+? !!python/tuple
+- !!python/tuple [where, WRB]
+- !!python/tuple ['''s', VBZ]
+- VBZ
+: {where is: 1.0}
+? !!python/tuple
+- !!python/tuple [where, WRB]
+- !!python/tuple ['''s', VBZ]
+- IN
+: {where is: 1.0}
+? !!python/tuple
+- !!python/tuple [so, IN]
+- !!python/tuple ['''s', POS]
+- CD
+: {so as: 1.0}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', POS]
+- TO
+: {so is: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', RB]
+- CD
+: {have not: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- JJR
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- DT
+: {he shall have: 1.0}
+? !!python/tuple
+- !!python/tuple [where, WRB]
+- !!python/tuple ['''s', VBZ]
+- DT
+: {where is: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- VB
+: {he will have: 1.0}
+? !!python/tuple
+- !!python/tuple [why, WRB]
+- !!python/tuple ['''s', POS]
+- PRP
+: {why is: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''ll', MD]
+- WDT
+: {they shall: 0.5, they will: 0.5}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- &id168 !!python/tuple ['''ll', MD]
+- FW
+: {they will: 1.0}
+? !!python/tuple
+- !!python/tuple [I, NNP]
+- !!python/tuple ['''d', NNP]
+- VBP
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- IN
+: {who shall have: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''ll', MD]
+- NNS
+: {he will: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id169 !!python/tuple ['''ll', MD]
+- &id170 !!python/tuple ['''ve', VB]
+- RB
+: {he shall have: 0.75, he will have: 0.25}
+? !!python/tuple
+- !!python/tuple [how, WRB]
+- !!python/tuple ['''s', POS]
+- PRP
+: {how is: 1.0}
+? !!python/tuple
+- !!python/tuple [how, WRB]
+- !!python/tuple ['''s', POS]
+- VBD
+: {how is: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- NNP
+: {I shall have: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- RB
+: {I shall have: 0.75, I will have: 0.25}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id171 !!python/tuple ['''ll', MD]
+- EX
+: {he shall: 1.0}
+? !!python/tuple
+- !!python/tuple [how, WRB]
+- !!python/tuple ['''s', POS]
+- CD
+: {how is: 1.0}
+? !!python/tuple
+- !!python/tuple [where, WRB]
+- !!python/tuple ['''s', POS]
+- PRP
+: {where is: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- FW
+: {I shall: 0.5, I will: 0.5}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', NN]
+- WDT
+: {am not: 1.0}
+? !!python/tuple
+- !!python/tuple [how, WRB]
+- !!python/tuple ['''s', VBZ]
+- CD
+: {how is: 1.0}
+? !!python/tuple
+- !!python/tuple [how, WRB]
+- !!python/tuple ['''s', VBZ]
+- PRP
+: {how is: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''ll', MD]
+- VBD
+: {it shall: 0.029, it will: 0.971}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- CC
+: {you shall have: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- PRP
+: {you shall have: 0.5, you will have: 0.5}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', VBD]
+- VB
+: {we had: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, JJ]
+- !!python/tuple ['''t', NN]
+- CD
+: {is not: 1.0}
+? !!python/tuple
+- !!python/tuple [why, WRB]
+- !!python/tuple ['''s', POS]
+- CD
+: {why is: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', VBD]
+- ':'
+: {there had: 1.0}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', POS]
+- CD
+: {what is: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBD]
+- !!python/tuple ['''t', NN]
+- CD
+: {is not: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''s', VBZ]
+- WDT
+: {it has: 0.667, it is: 0.333}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', MD]
+- CD
+: {you had: 0.333, you would: 0.667}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id172 !!python/tuple ['''ll', MD]
+- ''''''
+: {he shall: 0.4, he will: 0.6}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- VBZ
+: {I will have: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', VBD]
+- TO
+: {they had: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- ''''''
+: {you shall: 0.2, you will: 0.8}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- CC
+: {you will: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- VBG
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- ''''''
+: {I shall: 0.857, I will: 0.143}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- POS
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''ll', MD]
+- POS
+: {he will: 1.0}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', VBZ]
+- RB
+: {so as: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- TO
+: {you will have: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', VBD]
+- WRB
+: {they had: 1.0}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', VBZ]
+- POS
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', MD]
+- ':'
+: {she had: 1.0}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', VBD]
+- MD
+: {we had: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id173 !!python/tuple ['''d', NNP]
+- VBD
+: {it would: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', VBD]
+- POS
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', MD]
+- POS
+: {it had: 0.5, it would: 0.5}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- POS
+: {I shall: 0.667, I will: 0.333}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', POS]
+- RB
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- WRB
+: {who is: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- RBS
+: {I will: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, NNP]
+- !!python/tuple ['''t', NNP]
+- RB
+: {am not: 0.5, have not: 0.5}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', VBD]
+- PRP$
+: {they had: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- PDT
+: {you will: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', POS]
+- VBZ
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- VBN
+: {who will: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', NN]
+- NNP
+: {have not: 1.0}
+? !!python/tuple
+- !!python/tuple [that, IN]
+- !!python/tuple ['''s', POS]
+- PRP
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- PRP
+: {who shall: 0.5, who will: 0.5}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id174 !!python/tuple ['''d', MD]
+- WP$
+: {he had: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', VBD]
+- EX
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- POS
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', VBD]
+- TO
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, NN]
+- !!python/tuple ['''t', NN]
+- VBG
+: {am not: 0.5, is not: 0.5}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', VBZ]
+- VBP
+: {so as: 1.0}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', VBD]
+- POS
+: {we had: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''ll', MD]
+- POS
+: {it will: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', MD]
+- PDT
+: {he had: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', VBD]
+- VBZ
+: {it had: 1.0}
+? !!python/tuple
+- !!python/tuple [that, IN]
+- !!python/tuple ['''d', NNP]
+- RP
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', RB]
+- ','
+: {are not: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id175 !!python/tuple ['''s', POS]
+- VBZ
+: {it is: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- ''''''
+: {I had: 0.6, I would: 0.4}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', MD]
+- JJR
+: {you had: 0.333, you would: 0.667}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''s', VBZ]
+- POS
+: {he is: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- WDT
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- POS
+: {you shall: 0.5, you will: 0.5}
+? !!python/tuple
+- !!python/tuple [ain, NN]
+- !!python/tuple ['''t', NN]
+- PRP$
+: {have not: 0.5, is not: 0.5}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- VBG
+: {there has: 0.25, there is: 0.75}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', VBD]
+- PRP$
+: {we had: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- RP
+: {I had: 0.5, I would: 0.5}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''s', POS]
+- DT
+: {it has: 1.0}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', VBZ]
+- DT
+: {so as: 0.875, so is: 0.125}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', VBD]
+- POS
+: {you had: 1.0}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- WDT
+: {who shall: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', MD]
+- WRB
+: {you would: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- PDT
+: {is not: 1.0}
+? !!python/tuple
+- !!python/tuple [that, IN]
+- !!python/tuple ['''s', POS]
+- JJ
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''d', VBD]
+- POS
+: {he had: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- RP
+: {I shall: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', MD]
+- ''''''
+: {they had: 0.4, they would: 0.6}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', VBZ]
+- PRP$
+: {so as: 1.0}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- POS
+: {who is: 1.0}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', VBZ]
+- VBN
+: {so as: 0.5, so is: 0.5}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', VBD]
+- RP
+: {they had: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', VBD]
+- ''''''
+: {she would: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', POS]
+- VBP
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''ll', MD]
+- CC
+: {what will: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- NN
+: {you shall have: 0.667, you will have: 0.333}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', MD]
+- ':'
+: {you had: 0.333, you would: 0.667}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''ll', MD]
+- ''''''
+: {it will: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- VB
+: {she will have: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, NNP]
+- !!python/tuple ['''t', NNP]
+- NN
+: {has not: 0.667, have not: 0.333}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', VBZ]
+- .
+: {so as: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- CD
+: {you shall have: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- &id176 !!python/tuple ['''d', VBD]
+- RBR
+: {she had: 1.0}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''ll', MD]
+- VBP
+: {what will: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- JJS
+: {I will: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- ''''''
+: {that has: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''s', VBZ]
+- ''''''
+: {she is: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- MD
+: {I shall have: 0.5, I will have: 0.5}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', VBD]
+- TO
+: {it had: 1.0}
+? !!python/tuple
+- !!python/tuple [how, WRB]
+- !!python/tuple ['''s', POS]
+- RB
+: {how does: 1.0}
+? !!python/tuple
+- !!python/tuple [why, WRB]
+- !!python/tuple ['''s', VBZ]
+- WRB
+: {why has: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- ':'
+: {I will have: 1.0}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''ll', MD]
+- VBZ
+: {what will: 1.0}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''ll', MD]
+- NNS
+: {what will: 1.0}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', MD]
+- POS
+: {we had: 1.0}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- .
+: {who has: 0.5, who is: 0.5}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- VBP
+: {you will have: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id177 !!python/tuple ['''d', MD]
+- WDT
+: {he had: 0.5, he would: 0.5}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''ll', MD]
+- ':'
+: {he shall: 0.667, he will: 0.333}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''ll', MD]
+- RB
+: {what will: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- POS
+: {you shall have: 1.0}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- JJR
+: {what is: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', JJ]
+- JJ
+: {am not: 0.5, are not: 0.5}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- ''''''
+: {I shall have: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- ','
+: {I will have: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', MD]
+- .
+: {it would: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''ll', MD]
+- .
+: {he will: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- FW
+: {I would: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', MD]
+- .
+: {they had: 0.667, they would: 0.333}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', MD]
+- POS
+: {that would: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', JJ]
+- VB
+: {are not: 1.0}
+? !!python/tuple
+- !!python/tuple [where, WRB]
+- !!python/tuple ['''s', VBZ]
+- ':'
+: {where is: 1.0}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- POS
+: {what has: 0.5, what is: 0.5}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', POS]
+- ','
+: {what is: 1.0}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', POS]
+- RB
+: {what is: 1.0}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', POS]
+- DT
+: {what is: 1.0}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', POS]
+- NN
+: {what is: 1.0}
+? !!python/tuple
+- !!python/tuple [that, IN]
+- !!python/tuple ['''s', POS]
+- VBZ
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', NN]
+- ':'
+: {am not: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', MD]
+- NNS
+: {you would: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', NNP]
+- ','
+: {there had: 1.0}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- WP
+: {who will: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', NNP]
+- ','
+: {are not: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- RBS
+: {I shall have: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', VBD]
+- WP
+: {I had: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''ll', MD]
+- ':'
+: {it shall: 0.143, it will: 0.857}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id178 !!python/tuple ['''s', POS]
+- JJ
+: {it is: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- VBD
+: {I will have: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', VBD]
+- WDT
+: {there had: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- &id179 !!python/tuple ['''ll', MD]
+- UH
+: {she will: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id180 !!python/tuple ['''ll', MD]
+- RBS
+: {he will: 1.0}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''ll', MD]
+- FW
+: {what will: 1.0}
+? !!python/tuple
+- !!python/tuple [so, IN]
+- !!python/tuple ['''s', POS]
+- VBD
+: {so as: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id181 !!python/tuple ['''ll', MD]
+- PDT
+: {he will: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', MD]
+- PRP$
+: {that would: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''d', VBD]
+- PDT
+: {she had: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', MD]
+- WDT
+: {it had: 0.2, it would: 0.8}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', VBZ]
+- FW
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id182 !!python/tuple ['''ll', MD]
+- &id183 !!python/tuple ['''ve', VB]
+- ':'
+: {he shall have: 0.5, he will have: 0.5}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', VBD]
+- RP
+: {I would: 1.0}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', VBZ]
+- VBG
+: {so as: 1.0}
+? !!python/tuple
+- !!python/tuple [how, WRB]
+- !!python/tuple ['''s', POS]
+- IN
+: {how is: 1.0}
+? !!python/tuple
+- !!python/tuple [why, WRB]
+- !!python/tuple ['''s', VBZ]
+- TO
+: {why is: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', VBD]
+- POS
+: {it had: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id184 !!python/tuple ['''s', VBZ]
+- JJS
+: {he has: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', VBD]
+- CC
+: {it had: 0.9, it would: 0.1}
+? !!python/tuple
+- !!python/tuple [where, WRB]
+- !!python/tuple ['''s', POS]
+- WP
+: {where is: 1.0}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', POS]
+- IN
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', VBZ]
+- VBG
+: {that has: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', MD]
+- PDT
+: {it had: 0.333, it would: 0.667}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- PDT
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', VBZ]
+- PDT
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, NN]
+- !!python/tuple ['''t', NN]
+- NNS
+: {is not: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', NN]
+- DT
+: {is not: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBD]
+- !!python/tuple ['''t', NN]
+- JJ
+: {has not: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', MD]
+- ''''''
+: {that had: 0.5, that would: 0.5}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', VBD]
+- IN
+: {you would: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', MD]
+- JJS
+: {you would: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''ll', MD]
+- WRB
+: {you will: 1.0}
+? !!python/tuple
+- !!python/tuple [how, WRB]
+- !!python/tuple ['''s', VBZ]
+- NN
+: {how does: 0.667, how is: 0.333}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- NNP
+: {it shall have: 0.333, it will have: 0.667}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', MD]
+- EX
+: {they would: 1.0}
+? !!python/tuple
+- !!python/tuple [that, IN]
+- !!python/tuple ['''s', POS]
+- VBP
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', VBD]
+- VBZ
+: {they had: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', MD]
+- POS
+: {you would: 1.0}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', MD]
+- UH
+: {we would: 1.0}
+? !!python/tuple
+- !!python/tuple [that, IN]
+- !!python/tuple ['''d', NNP]
+- PRP
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [that, IN]
+- !!python/tuple ['''d', NNP]
+- IN
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', MD]
+- CC
+: {we had: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- RBR
+: {have not: 1.0}
+? !!python/tuple
+- !!python/tuple [where, WRB]
+- !!python/tuple ['''s', VBZ]
+- PRP$
+: {where is: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''d', MD]
+- LS
+: {I would: 1.0}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- ''''''
+: {who shall: 1.0}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', MD]
+- PRP$
+: {we had: 1.0}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', POS]
+- FW
+: {so is: 1.0}
+? !!python/tuple
+- !!python/tuple [when, WRB]
+- !!python/tuple ['''s', VBZ]
+- ','
+: {when is: 1.0}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', POS]
+- PRP
+: {so as: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', FW]
+- FW
+: {am not: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', NNP]
+- RB
+: {are not: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', NNP]
+- NNP
+: {am not: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', NNP]
+- ':'
+: {are not: 1.0}
+? !!python/tuple
+- !!python/tuple [where, WRB]
+- !!python/tuple ['''s', POS]
+- WRB
+: {where is: 1.0}
+? !!python/tuple
+- !!python/tuple [why, WRB]
+- !!python/tuple ['''s', VBZ]
+- NNS
+: {why is: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+: {I will: 1.0}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', POS]
+- IN
+: {what is: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''s', VBZ]
+- RBS
+: {she is: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, NN]
+- !!python/tuple ['''t', NN]
+- NNP
+: {has not: 0.667, is not: 0.333}
+? !!python/tuple
+- !!python/tuple [where, WRB]
+- !!python/tuple ['''s', POS]
+- PRP$
+: {where is: 1.0}
+? !!python/tuple
+- !!python/tuple [how, WRB]
+- !!python/tuple ['''s', VBZ]
+- PRP$
+: {how does: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, NNP]
+- !!python/tuple ['''t', NNP]
+- ''''''
+: {am not: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', FW]
+- ','
+: {are not: 1.0}
+? !!python/tuple
+- !!python/tuple [why, WRB]
+- !!python/tuple ['''s', VBZ]
+- MD
+: {why is: 1.0}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', VBZ]
+- FW
+: {what is: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, NNP]
+- !!python/tuple ['''t', NNP]
+- ','
+: {has not: 0.5, is not: 0.5}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- PDT
+: {I shall: 1.0}
+? !!python/tuple
+- !!python/tuple [where, WRB]
+- !!python/tuple ['''s', POS]
+- IN
+: {where is: 1.0}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', POS]
+- NNS
+: {what is: 1.0}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', POS]
+- POS
+: {what is: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', POS]
+- RB
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id185 !!python/tuple ['''s', POS]
+- RB
+: {it is: 1.0}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- JJS
+: {who will: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id186 !!python/tuple ['''ll', MD]
+- &id187 !!python/tuple ['''ve', VB]
+- NN
+: {he shall have: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', FW]
+- IN
+: {are not: 1.0}
+? !!python/tuple
+- !!python/tuple [that, IN]
+- !!python/tuple ['''s', POS]
+- NN
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''ll', MD]
+- VBN
+: {they shall: 0.5, they will: 0.5}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''s', VBZ]
+- RP
+: {who is: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', VBD]
+- FW
+: {that would: 1.0}
+? !!python/tuple
+- !!python/tuple [she, PRP]
+- !!python/tuple ['''s', VBZ]
+- WP$
+: {she is: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- ':'
+: {that has: 0.667, that is: 0.333}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', NN]
+- ':'
+: {has not: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''s', POS]
+- VBZ
+: {he has: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- MD
+: {it will have: 1.0}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', VBZ]
+- ''''''
+: {so as: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', FW]
+- WDT
+: {are not: 0.5, has not: 0.5}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''ll', MD]
+- ''''''
+: {they will: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id188 !!python/tuple ['''ll', MD]
+- JJS
+: {it will: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', MD]
+- FW
+: {it would: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- VBP
+: {they will have: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- IN
+: {it will have: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''ll', MD]
+- EX
+: {they will: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VB]
+- !!python/tuple ['''t', NN]
+- PRP
+: {is not: 1.0}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''d', MD]
+- JJ
+: {that would: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', MD]
+- VBZ
+: {there would: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, NN]
+- !!python/tuple ['''t', NN]
+- .
+: {has not: 1.0}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', VBZ]
+- EX
+: {so as: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, NN]
+- !!python/tuple ['''t', NN]
+- VBD
+: {has not: 0.2, have not: 0.2, is not: 0.6}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', RB]
+- ''''''
+: {have not: 1.0}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', MD]
+- ''''''
+: {we would: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- PRP
+: {it will have: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VBP]
+- !!python/tuple ['''t', RB]
+- NN
+: {have not: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''d', VBD]
+- CC
+: {that had: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''ll', MD]
+- FW
+: {it will: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', NN]
+- VBN
+: {has not: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id189 !!python/tuple ['''ll', MD]
+- &id190 !!python/tuple ['''ve', VB]
+- TO
+: {it will have: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''ll', MD]
+- NNPS
+: {it will: 1.0}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''s', POS]
+- NNP
+: {what is: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id191 !!python/tuple ['''s', POS]
+- ''''''
+: {it has: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VB]
+- !!python/tuple ['''t', NN]
+- VBP
+: {have not: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- NN
+: {it will have: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, NNP]
+- !!python/tuple ['''t', NNP]
+- VBZ
+: {has not: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''ll', MD]
+- .
+: {they will: 1.0}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', MD]
+- RBR
+: {we had: 1.0}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', POS]
+- VBN
+: {so as: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', MD]
+- WP
+: {they would: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id192 !!python/tuple ['''ll', MD]
+- &id193 !!python/tuple ['''ve', VB]
+- VBD
+: {it will have: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''ll', MD]
+- WP
+: {he will: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- !!python/tuple ['''ll', MD]
+- RBR
+: {he will: 1.0}
+? !!python/tuple
+- !!python/tuple [that, IN]
+- !!python/tuple ['''d', NNP]
+- NNP
+: {that would: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id194 !!python/tuple ['''s', POS]
+- PRP
+: {it has: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', POS]
+- POS
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [you, PRP]
+- !!python/tuple ['''d', MD]
+- ''''''
+: {you would: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id195 !!python/tuple ['''d', VBD]
+- FW
+: {it had: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''ll', MD]
+- RBR
+: {it will: 1.0}
+? !!python/tuple
+- !!python/tuple [so, IN]
+- !!python/tuple ['''s', POS]
+- ','
+: {so as: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', VBD]
+- MD
+: {there had: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- ':'
+: {it will have: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', NN]
+- PRP
+: {have not: 1.0}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- POS
+: {who will: 1.0}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', POS]
+- POS
+: {so is: 1.0}
+? !!python/tuple
+- !!python/tuple [we, PRP]
+- !!python/tuple ['''d', MD]
+- VBG
+: {we had: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', NN]
+- NN
+: {is not: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''ll', MD]
+- WDT
+: {it will: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', VBD]
+- ':'
+: {it had: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', MD]
+- POS
+: {there would: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, JJ]
+- !!python/tuple ['''t', NN]
+- ','
+: {is not: 1.0}
+? !!python/tuple
+- !!python/tuple [that, WDT]
+- !!python/tuple ['''s', VBZ]
+- POS
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', VBD]
+- RBR
+: {they had: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, FW]
+- !!python/tuple ['''t', NN]
+- VBD
+: {has not: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''d', MD]
+- WRB
+: {there would: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''ll', MD]
+- POS
+: {they will: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', MD]
+- RBR
+: {it would: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- &id196 !!python/tuple ['''ll', MD]
+- WP$
+: {it will: 1.0}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', VBZ]
+- RBS
+: {that has: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', VBD]
+- WDT
+: {it had: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', VBD]
+- VBP
+: {it had: 1.0}
+? !!python/tuple
+- !!python/tuple [he, PRP]
+- &id197 !!python/tuple ['''ll', MD]
+- &id198 !!python/tuple ['''ve', VB]
+- VBG
+: {he will have: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''d', VBD]
+- RBR
+: {it had: 1.0}
+? !!python/tuple
+- !!python/tuple [what, WP]
+- !!python/tuple ['''ll', MD]
+- POS
+: {what will: 1.0}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- ':'
+: {who will: 1.0}
+? !!python/tuple
+- !!python/tuple [that, DT]
+- !!python/tuple ['''s', VBZ]
+- WP
+: {that is: 1.0}
+? !!python/tuple
+- !!python/tuple [I, PRP]
+- !!python/tuple ['''ll', MD]
+- WDT
+: {I shall: 1.0}
+? !!python/tuple
+- !!python/tuple [they, PRP]
+- !!python/tuple ['''d', MD]
+- RBR
+: {they would: 1.0}
+? !!python/tuple
+- !!python/tuple [it, PRP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- RB
+: {it shall have: 1.0}
+? !!python/tuple
+- !!python/tuple [who, WP]
+- !!python/tuple ['''ll', MD]
+- !!python/tuple ['''ve', VB]
+- NN
+: {who shall have: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, JJ]
+- !!python/tuple ['''t', NN]
+- VBD
+: {is not: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, VB]
+- !!python/tuple ['''t', NN]
+- VB
+: {have not: 1.0}
+? !!python/tuple
+- !!python/tuple [there, EX]
+- !!python/tuple ['''s', VBZ]
+- NNPS
+: {there is: 1.0}
+? !!python/tuple
+- !!python/tuple [ain, NN]
+- !!python/tuple ['''t', NN]
+- VBN
+: {have not: 0.5, is not: 0.5}
+? !!python/tuple
+- !!python/tuple [so, RB]
+- !!python/tuple ['''s', POS]
+- RB
+: {so is: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id001
+- VB
+: {<NE> had: 0.29, <NE> would: 0.71}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id002
+- NNP
+: {<NE> has: 0.328, <NE> is: 0.672}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id003
+- VBD
+: {<NE> had: 0.99, <NE> would: 0.01}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id004
+- IN
+: {<NE> shall: 0.12, <NE> will: 0.88}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id005
+- '``'
+: {<NE> had: 0.1, <NE> would: 0.9}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id006
+- NN
+: {<NE> has: 0.405, <NE> is: 0.595}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id007
+- ','
+: {<NE> had: 0.516, <NE> would: 0.484}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id008
+- NNP
+: {<NE> had: 0.504, <NE> would: 0.496}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id009
+- IN
+: {<NE> had: 0.503, <NE> would: 0.497}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id010
+- NNP
+: {<NE> shall: 0.043, <NE> will: 0.957}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id011
+- PRP$
+: {<NE> had: 0.571, <NE> would: 0.429}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id012
+- NN
+: {<NE> shall: 0.135, <NE> will: 0.865}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id013
+- VBD
+: {<NE> shall: 0.353, <NE> will: 0.647}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id014
+- VBZ
+: {<NE> has: 0.319, <NE> is: 0.681}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id015
+- RB
+: {<NE> had: 0.547, <NE> would: 0.453}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id016
+- VBD
+: {<NE> had: 0.519, <NE> would: 0.481}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id017
+- JJ
+: {<NE> has: 0.247, <NE> is: 0.753}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id018
+- DT
+: {<NE> had: 0.488, <NE> would: 0.512}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id019
+- VBD
+: {<NE> has: 0.451, <NE> is: 0.549}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id020
+- VB
+: {<NE> has: 0.298, <NE> is: 0.702}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id021
+- PRP
+: {<NE> had: 0.487, <NE> would: 0.513}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id022
+- VB
+: {<NE> shall: 0.233, <NE> will: 0.767}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id023
+- CD
+: {<NE> had: 0.997, <NE> would: 0.003}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id024
+- PRP
+: {<NE> has: 0.271, <NE> is: 0.729}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id025
+- DT
+: {<NE> has: 0.306, <NE> is: 0.694}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id026
+- JJ
+: {<NE> shall: 0.128, <NE> will: 0.872}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id027
+- MD
+: {<NE> had: 0.956, <NE> would: 0.044}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id028
+- JJ
+: {<NE> had: 0.528, <NE> would: 0.472}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id029
+- IN
+: {<NE> has: 0.292, <NE> is: 0.708}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id030
+- NN
+: {<NE> had: 0.517, <NE> would: 0.483}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id031
+- MD
+: {<NE> shall: 0.291, <NE> will: 0.709}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id032
+- NNS
+: {<NE> had: 0.485, <NE> would: 0.515}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id033
+- NNP
+: {<NE> had: 0.998, <NE> would: 0.002}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id034
+- PRP
+: {<NE> shall: 0.091, <NE> will: 0.909}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id035
+- *id036
+- VBP
+: {<NE> will have: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id037
+- PRP
+: {<NE> had: 0.984, <NE> would: 0.016}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id038
+- VBG
+: {<NE> has: 0.343, <NE> is: 0.657}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id039
+- VBP
+: {<NE> shall: 0.056, <NE> will: 0.944}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id040
+- ','
+: {<NE> shall: 0.091, <NE> will: 0.909}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id041
+- CC
+: {<NE> had: 0.602, <NE> would: 0.398}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id042
+- ','
+: {<NE> has: 0.35, <NE> is: 0.65}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id043
+- ','
+: {<NE> had: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id044
+- TO
+: {<NE> has: 0.445, <NE> is: 0.555}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id045
+- NN
+: {<NE> had: 0.988, <NE> would: 0.012}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id046
+- CD
+: {<NE> had: 0.656, <NE> would: 0.344}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id047
+- NNS
+: {<NE> has: 0.302, <NE> is: 0.698}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id048
+- NNS
+: {<NE> had: 0.986, <NE> would: 0.014}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id049
+- WRB
+: {<NE> had: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id050
+- IN
+: {<NE> had: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id051
+- JJR
+: {<NE> had: 0.7, <NE> would: 0.3}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id052
+- VBP
+: {<NE> has: 0.328, <NE> is: 0.672}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id053
+- RB
+: {<NE> has: 0.254, <NE> is: 0.746}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id054
+- PRP$
+: {<NE> had: 0.952, <NE> would: 0.048}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id055
+- CD
+: {<NE> has: 0.03, <NE> is: 0.97}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id056
+- JJ
+: {<NE> had: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id057
+- VBZ
+: {<NE> shall: 0.1, <NE> will: 0.9}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id058
+- VBP
+: {<NE> had: 0.374, <NE> would: 0.626}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id059
+- RB
+: {<NE> had: 0.99, <NE> would: 0.01}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id060
+- FW
+: {<NE> has: 0.533, <NE> is: 0.467}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id061
+- DT
+: {<NE> had: 0.992, <NE> would: 0.008}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id062
+- VBN
+: {<NE> had: 0.578, <NE> would: 0.422}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id063
+- VBN
+: {<NE> has: 0.538, <NE> is: 0.462}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id064
+- NNPS
+: {<NE> had: 0.056, <NE> would: 0.944}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id065
+- RB
+: {<NE> shall: 0.177, <NE> will: 0.823}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id066
+- WRB
+: {<NE> will: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id067
+- NNS
+: {<NE> shall: 0.024, <NE> will: 0.976}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id068
+- MD
+: {<NE> has: 0.346, <NE> is: 0.654}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id069
+- MD
+: {<NE> had: 0.522, <NE> would: 0.478}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id070
+- NNPS
+: {<NE> had: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id071
+- DT
+: {<NE> shall: 0.115, <NE> will: 0.885}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id072
+- RP
+: {<NE> is: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id073
+- *id074
+- DT
+: {<NE> shall have: 0.667, <NE> will have: 0.333}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id075
+- EX
+: {<NE> has: 0.385, <NE> is: 0.615}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id076
+- WRB
+: {<NE> has: 0.517, <NE> is: 0.483}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id077
+- NNPS
+: {<NE> shall: 0.222, <NE> will: 0.778}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id078
+- PRP$
+: {<NE> has: 0.33, <NE> is: 0.67}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id079
+- PRP$
+: {<NE> shall: 0.3, <NE> will: 0.7}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id080
+- RBR
+: {<NE> has: 0.067, <NE> is: 0.933}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id081
+- TO
+: {<NE> had: 0.613, <NE> would: 0.387}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id082
+- *id083
+- VBZ
+: {<NE> will have: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id084
+- JJR
+: {<NE> has: 0.048, <NE> is: 0.952}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id085
+- VBZ
+: {<NE> had: 0.38, <NE> would: 0.62}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id086
+- JJS
+: {<NE> would: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id087
+- '``'
+: {<NE> has: 0.4, <NE> is: 0.6}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id088
+- WP
+: {<NE> had: 0.336, <NE> would: 0.664}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id089
+- VBG
+: {<NE> shall: 0.2, <NE> will: 0.8}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id090
+- ','
+: {<NE> has: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id091
+- *id092
+- MD
+: {<NE> will have: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id093
+- CC
+: {<NE> has: 0.751, <NE> is: 0.249}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id094
+- VBN
+: {<NE> had: 0.99, <NE> would: 0.01}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id095
+- *id096
+- VB
+: {<NE> will have: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id097
+- TO
+: {<NE> shall: 0.143, <NE> will: 0.857}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id098
+- WDT
+: {<NE> has: 0.489, <NE> is: 0.511}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id099
+- WRB
+: {<NE> had: 0.525, <NE> would: 0.475}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id100
+- *id101
+- ','
+: {<NE> will have: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id102
+- WDT
+: {<NE> had: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id103
+- RP
+: {<NE> had: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id104
+- VBN
+: {<NE> shall: 0.143, <NE> will: 0.857}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id105
+- VB
+: {<NE> had: 0.965, <NE> would: 0.035}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id106
+- WP
+: {<NE> has: 0.431, <NE> is: 0.569}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id107
+- RBS
+: {<NE> had: 0.5, <NE> would: 0.5}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id108
+- ':'
+: {<NE> has: 0.368, <NE> is: 0.632}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id109
+- TO
+: {<NE> had: 0.99, <NE> would: 0.01}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id110
+- WP
+: {<NE> had: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id111
+- VBP
+: {<NE> had: 0.905, <NE> would: 0.095}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id112
+- VBG
+: {<NE> had: 0.529, <NE> would: 0.471}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id113
+- RBS
+: {<NE> has: 0.4, <NE> is: 0.6}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id114
+- ''''''
+: {<NE> had: 0.5, <NE> would: 0.5}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id115
+- VBG
+: {<NE> had: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id116
+- ''''''
+: {<NE> has: 0.178, <NE> is: 0.822}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id117
+- RBR
+: {<NE> will: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id118
+- FW
+: {<NE> had: 0.667, <NE> would: 0.333}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id119
+- *id120
+- VBN
+: {<NE> will have: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id121
+- WP$
+: {<NE> is: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id122
+- NN
+: {<NE> has: 0.5, <NE> is: 0.5}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id123
+- VBZ
+: {<NE> had: 0.929, <NE> would: 0.071}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id124
+- ':'
+: {<NE> had: 0.624, <NE> would: 0.376}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id125
+- ''''''
+: {<NE> had: 0.343, <NE> would: 0.657}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id126
+- CD
+: {<NE> shall: 0.906, <NE> will: 0.094}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id127
+- PDT
+: {<NE> had: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id128
+- CC
+: {<NE> had: 0.929, <NE> would: 0.071}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id129
+- EX
+: {<NE> would: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id130
+- POS
+: {<NE> has: 0.333, <NE> is: 0.667}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id131
+- .
+: {<NE> had: 0.533, <NE> would: 0.467}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id132
+- RP
+: {<NE> had: 0.571, <NE> would: 0.429}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id133
+- JJR
+: {<NE> had: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id134
+- CC
+: {<NE> shall: 0.285, <NE> will: 0.715}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id135
+- .
+: {<NE> has: 0.496, <NE> is: 0.504}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id136
+- DT
+: {<NE> has: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id137
+- *id138
+- JJ
+: {<NE> shall have: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id139
+- POS
+: {<NE> will: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id140
+- POS
+: {<NE> has: 0.032, <NE> is: 0.968}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id141
+- WDT
+: {<NE> shall: 0.321, <NE> will: 0.679}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id142
+- .
+: {<NE> had: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id143
+- POS
+: {<NE> had: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id144
+- POS
+: {<NE> had: 0.662, <NE> would: 0.338}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id145
+- *id146
+- PRP
+: {<NE> shall have: 0.2, <NE> will have: 0.8}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id147
+- ':'
+: {<NE> shall: 0.211, <NE> will: 0.789}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id148
+- VBP
+: {<NE> is: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id149
+- ':'
+: {<NE> had: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id150
+- WP
+: {<NE> will: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id151
+- RP
+: {<NE> will: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id152
+- PDT
+: {<NE> had: 0.619, <NE> would: 0.381}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id153
+- PDT
+: {<NE> has: 0.333, <NE> is: 0.667}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id154
+- RBR
+: {<NE> had: 0.571, <NE> would: 0.429}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id155
+- EX
+: {<NE> had: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id156
+- NNPS
+: {<NE> has: 0.857, <NE> is: 0.143}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id157
+- *id158
+- PRP$
+: {<NE> shall have: 0.75, <NE> will have: 0.25}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id159
+- .
+: {<NE> will: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id160
+- JJS
+: {<NE> had: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id161
+- *id162
+- IN
+: {<NE> shall have: 0.8, <NE> will have: 0.2}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id163
+- *id164
+- CC
+: {<NE> shall have: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id165
+- *id166
+- NNP
+: {<NE> shall have: 0.556, <NE> will have: 0.444}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id167
+- CD
+: {<NE> is: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id168
+- FW
+: {<NE> will: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id169
+- *id170
+- RB
+: {<NE> shall have: 0.833, <NE> will have: 0.167}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id171
+- EX
+: {<NE> shall: 0.5, <NE> will: 0.5}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id172
+- ''''''
+: {<NE> shall: 0.16, <NE> will: 0.84}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id173
+- VBD
+: {<NE> would: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id174
+- WP$
+: {<NE> had: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id175
+- VBZ
+: {<NE> has: 0.667, <NE> is: 0.333}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id176
+- RBR
+: {<NE> had: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id177
+- WDT
+: {<NE> had: 0.4, <NE> would: 0.6}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id178
+- JJ
+: {<NE> is: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id179
+- UH
+: {<NE> will: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id180
+- RBS
+: {<NE> will: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id181
+- PDT
+: {<NE> will: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id182
+- *id183
+- ':'
+: {<NE> shall have: 0.333, <NE> will have: 0.667}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id184
+- JJS
+: {<NE> has: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id185
+- RB
+: {<NE> is: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id186
+- *id187
+- NN
+: {<NE> shall have: 0.667, <NE> will have: 0.333}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id188
+- JJS
+: {<NE> will: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id189
+- *id190
+- TO
+: {<NE> will have: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id191
+- ''''''
+: {<NE> has: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id192
+- *id193
+- VBD
+: {<NE> will have: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id194
+- PRP
+: {<NE> has: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id195
+- FW
+: {<NE> had: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id196
+- WP$
+: {<NE> will: 1.0}
+? !!python/tuple
+- !!python/tuple [<NE>, PRP]
+- *id197
+- *id198
+- VBG
+: {<NE> will have: 1.0}

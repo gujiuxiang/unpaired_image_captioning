@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/misc/variants/NeuralBabyTalk" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/OpenNMT-py" />
+      <excludeFolder url="file://$MODULE_DIR$/data" />
+      <excludeFolder url="file://$MODULE_DIR$/misc/OpenNMT-py" />
+      <excludeFolder url="file://$MODULE_DIR$/misc/OpenNMT-py-bak" />
+      <excludeFolder url="file://$MODULE_DIR$/misc/OpenNMT-py-dalegebit" />
+      <excludeFolder url="file://$MODULE_DIR$/misc/bottom-up-attention" />
+      <excludeFolder url="file://$MODULE_DIR$/misc/phrase_based_image_captioning" />
+      <excludeFolder url="file://$MODULE_DIR$/misc/variants" />
+      <excludeFolder url="file://$MODULE_DIR$/misc/variants/NeuralBabyTalk/data" />
+      <excludeFolder url="file://$MODULE_DIR$/neural_machine_translation" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 2.7.12 (/usr/bin/python2.7)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_CONFIGURATION" value="Jinja2" />
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/scripts/word_cloud/doc/_templates" />
+      </list>
+    </option>
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
